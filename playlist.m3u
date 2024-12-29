@@ -633,14 +633,14 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV (IH)
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/656-LOGO-l.png",SPOTV (IH)
 #EXTGRP:Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 (IH)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/657-LOGO-l.png",SPOTV2 (IH)
 #EXTGRP:Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -669,7 +669,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="Sports",beINSports1 (Vid)
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198771-LOGO-l.png" group-title="Sports",beINSports1 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=17884&type=dash
@@ -677,7 +677,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="Sports",beINSports2 (Vid)
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198772-LOGO-l.png" group-title="Sports",beINSports2 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=17875&type=dash
@@ -685,7 +685,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
-#EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="Sports",beINSports3 (Vid)
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198770-LOGO-l.png" group-title="Sports",beINSports3 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=6317&type=dash
@@ -2984,7 +2984,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSma
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://logo.iptveditor.com/mtvlive.png" group-title="Music",MTV Live (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-id="DensShowBiz.id" tvg-logo="https://www.visionplus.id/images/repository/712/112712-LOGO-m.png" group-title="Music",DensShowBiz (D)
+#EXTINF:-1 tvg-id="DensShowBiz.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/112712-LOGO-l.png" group-title="Music",DensShowBiz (D)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
@@ -3162,7 +3162,7 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png" group-title="LIVE EVENT",RCTI FHD (R+)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -3171,7 +3171,7 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #https://output.unregister.xyz/euro/inavsjapan2024_uhd/index.m3u8
 
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png" group-title="LIVE EVENT",RCTI HD (R+)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -3180,7 +3180,7 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #https://output.unregister.xyz/euro/inavsjapan2024_hd/index.m3u8
 
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png" group-title="LIVE EVENT",RCTI SD (R+)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI SD (R+)
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -3192,12 +3192,12 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
 
-#EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="LIVE EVENT",Sportstars
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/652-LOGO-l.png" group-title="LIVE EVENT",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-id="Sportstars2.id" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="LIVE EVENT",Sportstars 2
+#EXTINF:-1 tvg-id="Sportstars2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/653-LOGO-l.png" group-title="LIVE EVENT",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -3340,7 +3340,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="BACKUP" tvg-id="ANTV.id" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV (IH)
+#EXTINF:-1 group-title="BACKUP" tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/587-LOGO-l.png",ANTV (IH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
@@ -3361,13 +3361,13 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="BACKUP" tvg-id="TransTV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV HD (IH)
+#EXTINF:-1 group-title="BACKUP" tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/585-LOGO-l.png",Trans TV HD (IH)
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 
 
 
-#EXTINF:-1 group-title="BACKUP" tvg-id="Trans7.id" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 HD (IH)
+#EXTINF:-1 group-title="BACKUP" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/586-LOGO-l.png",Trans 7 HD (IH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
@@ -3376,27 +3376,27 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:0 tvg-id="NET.id" tvg-logo="https://www.visionplus.id/images/repository/596/596-LOGO-m.png" group-title="BACKUP",NET.HD (IH)
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/596-LOGO-l.png" group-title="BACKUP",NET.HD (IH)
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 
 
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mnctv.png" group-title="BACKUP",MNCTV (R+)
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/581-LOGO-l.png" group-title="BACKUP",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/inews.png" group-title="BACKUP",iNewsTV (R+)
+#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/583-LOGO-l.png" group-title="BACKUP",iNewsTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rcti.png" group-title="BACKUP",RCTI (R+)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/580-LOGO-l.png" group-title="BACKUP",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/gtv.png" group-title="BACKUP",GTV (R+)
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/582-LOGO-l.png" group-title="BACKUP",GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -3498,13 +3498,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="BACKUP",RTV (IH)
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/588-LOGO-l.png" group-title="BACKUP",RTV (IH)
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
 
-#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="BACKUP",iNews (IH)
+#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/583-LOGO-l.png" group-title="BACKUP",iNews (IH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
@@ -3524,13 +3524,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="BACKUP",Kompas TV (V+)
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/590-LOGO-l.png" group-title="BACKUP",Kompas TV (V+)
 http://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="BACKUP",Metro TV (V+)
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/591-LOGO-l.png" group-title="BACKUP",Metro TV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
@@ -3558,7 +3558,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
 
-#EXTINF:-1 group-title="BACKUP" tvg-id="TransTV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV HD (IH)
+#EXTINF:-1 group-title="BACKUP" tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/585-LOGO-l.png",Trans TV HD (IH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
@@ -3584,7 +3584,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 
-#EXTINF:-1 group-title="BACKUP" tvg-id="CNBCIndonesia.id" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-m.png",CNBC Indonesia (IH)
+#EXTINF:-1 group-title="BACKUP" tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/132365-LOGO-l.png",CNBC Indonesia (IH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
@@ -3601,7 +3601,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="tvOne.id" group-title="BACKUP" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne (IH)
+#EXTINF:-1 tvg-id="tvOne.id" group-title="BACKUP" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/589-LOGO-l.png",TVOne (IH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
