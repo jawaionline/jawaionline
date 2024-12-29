@@ -1375,14 +1375,20 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/Fox
 #EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/632-LOGO-l.png" group-title="Entertainment",MNC Entertainment (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/632-LOGO-l.png" group-title="Entertainment",MNC Entertainment (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+
+#EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/632-LOGO-l.png" group-title="Entertainment",Ent (V)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #EXTINF:0 tvg-id="OKTV.id" tvg-logo="https://i.imgur.com/uxRo5fW.png" group-title="Entertainment",OKTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
