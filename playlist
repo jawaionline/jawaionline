@@ -3067,18 +3067,14 @@ https://mantul.biz.id:443/aruba/aruba/5286.ts
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" tvg-name="Indosiar" group-title="LIVE EVENT",Indosiar (Live Sports) 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#https://kurl.ru/visionples-indosiar|Origin=https://claplivehdplay.ru
-http://xtv.ooo:8080/live/827281020/827292929/350972.ts
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
-
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
+#http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png", SCTV No Acak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
-https://mantul.biz.id:443/aruba/aruba/432.ts
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv
 
 
 
