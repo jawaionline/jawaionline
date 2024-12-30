@@ -194,6 +194,10 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
 #https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
 
 
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_GarudaTV_3D_Putih_Silver_Merah.svg/2560px-Logo_GarudaTV_3D_Putih_Silver_Merah.svg.png" group-title="Nasional",Garuda TV (test)
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
+
+
 #EXTINF:-1 group-title="Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
@@ -3612,7 +3616,7 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="ATV.id" group-title="BACKUP" tvg-logo="ATV.id",ATV (IH)
+#EXTINF:-1 tvg-id="ATV.id" group-title="BACKUP" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true",ATV (IH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
