@@ -186,7 +186,8 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_GarudaTV_3D_Putih_Silver_Merah.svg/2560px-Logo_GarudaTV_3D_Putih_Silver_Merah.svg.png" group-title="Nasional",Garuda TV (*)
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
+#https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #https://stream.garuda.tv/live/garudatv/live.m3u8
