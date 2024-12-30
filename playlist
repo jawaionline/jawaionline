@@ -135,8 +135,6 @@ https://raw.githubusercontent.com/eepunx/cancan/main/tvon
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Nasional",Metro TV (V+)
@@ -192,10 +190,6 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #https://stream.garuda.tv/live/garudatv/live.m3u8
 #https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
-
-
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Logo_GarudaTV_3D_Putih_Silver_Merah.svg/2560px-Logo_GarudaTV_3D_Putih_Silver_Merah.svg.png" group-title="Nasional",Garuda TV (test)
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
 
 
 #EXTINF:-1 group-title="Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png",Indonesiana TV
