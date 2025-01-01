@@ -435,8 +435,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola (CF)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
+http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
 #https://d3o53knqf32abi.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola_Production/masterCH1.mpd
 #https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
@@ -444,8 +443,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola 2 (CF)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
+http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 #https://d2lrh0h3f3ck4u.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola2_Production/masterCH5.mpd
 #https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
@@ -478,7 +476,7 @@ http://d14sysfrzu8fji.cloudfront.net/grand.mpd
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18623
 http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
-http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
+#http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
 #https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
 
@@ -3674,39 +3672,46 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="BACKUP",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="BACKUP",Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="BACKUP",Astro Football
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="BACKUP",Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="BACKUP",Astro SuperSport 5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BACKUP",Live Event Airing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
+
+
+ 
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League (CF) 
 http://15.235.144.67:35461/654321/123456/11243
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
+#EXTINF:-1 tvg-id="AstroPremierLeague2" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League 2 (CF)
 http://15.235.144.67:35461/654321/123456/971
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
+#EXTINF:-1 tvg-id="AstroGrandstand" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Gradstand
 http://51.79.248.110:888/Lyana/Lyana/13461
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-http://51.79.248.110:888/Lyana/Lyana/13464
-
 *******************************************************************
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="BACKUP", Arena Bola HD (pft)
+http://31.42.187.37:25461/watchpad13158/1234/4648
+http://31.42.187.37:25461/watchpad13158/1234/11483
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="BACKUP", Arena Bola 2 HD (pft)
+http://31.42.187.37:25461/watchpad13158/1234/332
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="BACKUP", PremierLeague HD (pft)
+http://31.42.187.37:25461/watchpad13158/1234/114
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="BACKUP", PremierLeague 2 HD (pft)
+http://31.42.187.37:25461/watchpad13158/1234/113
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="BACKUP", Astro Grandstand HD (pft)
+http://31.42.187.37:25461/watchpad13158/1234/112
 
 
 
@@ -3734,14 +3739,3 @@ http://51.79.248.110:888/Lyana/Lyana/13464
 
 
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="BACKUP", Arena Bola(pft)televizo
-http://31.42.187.37:25461/watchpad13158/1234/4648
-http://31.42.187.37:25461/watchpad13158/1234/11483
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="BACKUP", Arena Bola 2(pft)televizo
-http://31.42.187.37:25461/watchpad13158/1234/332
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="BACKUP", PremierLeague(pft)televizo
-http://31.42.187.37:25461/watchpad13158/1234/114
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="BACKUP", PremierLeague 2(pft)televizo
-http://31.42.187.37:25461/watchpad13158/1234/113
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="BACKUP", Astro Grandstand(pft)televizo
-http://31.42.187.37:25461/watchpad13158/1234/112
