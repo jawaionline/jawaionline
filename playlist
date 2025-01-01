@@ -3719,6 +3719,10 @@ http://31.42.187.37:25461/watchpad13158/1234/113
 http://31.42.187.37:25461/watchpad13158/1234/112
 
 
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="BACKUP", Arena Bola (pft)
+http://perfecttv.net:8080/Perfecttv/Perfecttv/6
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="BACKUP", Arena Bola 2 (pft)
+http://perfecttv.net:8080/Perfecttv/Perfecttv/7
 
 
 #EXTINF:-1 tvg-id="Spotv Hd.ph" group-title="BACKUP" tvg-logo="https://i.ibb.co.com/wRWZkWs/spotv.png",SPOTV 🇵🇭
