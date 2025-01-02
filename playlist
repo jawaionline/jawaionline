@@ -3730,10 +3730,8 @@ http://31.42.187.37:25461/watchpad13158/1234/112
 
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="BACKUP", Arena Bola (pft)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://perfecttv.net:8080/Perfecttv/Perfecttv/6
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="BACKUP", Arena Bola 2 (pft)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://perfecttv.net:8080/Perfecttv/Perfecttv/7
 
 
