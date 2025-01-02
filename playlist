@@ -3729,9 +3729,11 @@ http://31.42.187.37:25461/watchpad13158/1234/113
 http://31.42.187.37:25461/watchpad13158/1234/112
 
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="BACKUP", Arena Bola (pft)
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="BACKUP", Arena Bola (pft)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="BACKUP", Arena Bola 2 (pft)
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="BACKUP", Arena Bola 2 (pft)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/7
 
 
