@@ -3092,7 +3092,7 @@ https://11.koora-live.video/hls/1/stream.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png", SCTV No Acak 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://iptv12k.com:35461/654321/123456/2184
+http://iptv12k.com:35461/654321/123456/9928
 #http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv
 
@@ -3100,7 +3100,6 @@ http://iptv12k.com:35461/654321/123456/2184
 #EXTINF:-1 tvg-id="SCTV.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png", SCTV No Acak 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-
 
 
 
@@ -3302,6 +3301,29 @@ https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/9986/default_primary.
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 *********************************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIVE EVENT", INDOSIAR (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="LIVE EVENT", MNCTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="LIVE EVENT", SCTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="LIVE EVENT", RCTI (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png" group-title="LIVE EVENT", GTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="LIVE EVENT", TRANSTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="LIVE EVENT", TRANS7 (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
+
 
 
 
@@ -3770,6 +3792,13 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/7
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/480p/v-480p-1735309185_482856700000.webm?hdntl=exp=1735806463~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=allUsers~data=hdntl~hmac=0e6493f9a015e613dc2bc843fb5a4db2a14fa880e29d8af261002a4676fdb64f
 #https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
+
+
+
+
+
+
+
 
 
 
