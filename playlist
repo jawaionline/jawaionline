@@ -3754,7 +3754,22 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/7
 
 
 
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png",SCTV (BOLA)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204/primary/720p/v-720p-idx.webm?hdntl=exp=1735806554~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~id=allUsers~data=hdntl~hmac=6053aa7ef78566cdad4145357d57220ea1da54940332148ee84764ec18fbe66b
+https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR (BOLA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/480p/v-480p-1735309185_482856700000.webm?hdntl=exp=1735806463~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=allUsers~data=hdntl~hmac=0e6493f9a015e613dc2bc843fb5a4db2a14fa880e29d8af261002a4676fdb64f
+#https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
 
