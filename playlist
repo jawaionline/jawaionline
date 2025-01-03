@@ -1360,7 +1360,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 
 
 
-#EXTINF:-1 tvg-id="tensportshd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",TEN SPORTS 
+#EXTINF:-1 tvg-id="tensportshd.in" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/ten-sports.png" group-title="Sports",Ten Sports
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/98.ts 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162710" group-title="Sports",Starsport 1 HD 
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148.ts
@@ -2120,7 +2120,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 
-#EXTINF:0 tvg-id="CrimePlusInvestigationAsia.sg" tvg-logo="https://logo.iptveditor.com/crimeinvestigation.png" group-title="Knowledge",Crime Investigation (V+)
+#EXTINF:0 tvg-id="CrimePlusInvestigationAsia.sg" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/crimeinvestigation.png" group-title="Knowledge",Crime Investigation (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
