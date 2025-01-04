@@ -3075,16 +3075,16 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://xtv.ooo:8080/88654455/97543255/350972
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
+#http://xtv.ooo:8080/88654455/97543255/350972
 #https://play1nm.hnyongshun.cn/live/ballbar_16890.m3u8
 #https://play1nm.hnyongshun.cn/live/ballbar_24840.m3u8
 #https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar2
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar2
+#http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
 #https://play1nm.hnyongshun.cn/live/ballbar_16580.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png",Indosiar (Live Sports) 3
@@ -3095,8 +3095,8 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar3
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" tvg-name="Indosiar" group-title="LIVE EVENT",Indosiar (Live Sports) 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://11.koora-live.video/hls/1/stream.m3u8
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
+#https://11.koora-live.video/hls/1/stream.m3u8
 #http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 
 
