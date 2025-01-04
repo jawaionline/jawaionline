@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mantul.biz.id:443/aruba/aruba/432.ts
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
