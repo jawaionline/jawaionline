@@ -3088,7 +3088,7 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar2
 #https://play1nm.hnyongshun.cn/live/ballbar_16580.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png",Indosiar (Live Sports) 3
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar3
 #http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
 #http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
