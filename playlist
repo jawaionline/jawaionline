@@ -190,7 +190,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.m
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="Nasional",Garuda TV (*)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
@@ -3102,7 +3101,8 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar3
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" tvg-name="Indosiar" group-title="LIVE EVENT",Indosiar (Live Sports) 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
 #https://11.koora-live.video/hls/1/stream.m3u8
 #http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 
@@ -3115,7 +3115,8 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png", SCTV No Acak 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://iptv12k.com:35461/654321/123456/9928
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv2
+#http://iptv12k.com:35461/654321/123456/9928
 #http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
 
 
