@@ -1544,7 +1544,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 
 
 
-#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://logo.iptveditor.com/aniplus.png" group-title="Kids and Animation",Aniplus (D)
+#EXTINF:-1 tvg-name="AniplusAsia.sg" tvg-logo="https://logo.iptveditor.com/aniplus.png" group-title="Kids and Animation",Aniplus (D)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
@@ -2205,7 +2205,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge",DensKnowledge (D)
+#EXTINF:-1 tvg-id="DensLearningKnowledge.id" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge",DensKnowledge (D)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge
@@ -2353,7 +2353,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime
 #https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD
 
-#EXTINF:-1 tvg-id="42" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="Lifestyle",DensLife and Style (D)
+#EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="Lifestyle",DensLife and Style (D)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensLife_n_Style
@@ -3126,12 +3126,12 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
-#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="LIVE EVENT",M LIVE 1
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="LIVE EVENT",M LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="LIVE EVENT",M LIVE 2
+#EXTINF:-1 tvg-id="meWATCHLIVE2.sg" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="LIVE EVENT",M LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
