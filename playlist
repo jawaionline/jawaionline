@@ -3151,17 +3151,17 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv2
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji2
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
 
 
