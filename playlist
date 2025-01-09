@@ -440,27 +440,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 
-*********************************************************
+************************************************************************************
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola (PFT)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/arenabola
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola (CF)
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
-#http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
-#https://d3o53knqf32abi.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola_Production/masterCH1.mpd
-#https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola 2 (CF)
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
-#http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
-#https://d2lrh0h3f3ck4u.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola2_Production/masterCH5.mpd
-#https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola 2 (PFT)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/arenabola2
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -472,38 +461,20 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
 https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/sportplus_Production/masterCH2.mpd
 
 
-#EXTINF:-1 tvg-id="AstroGrandstand" group-logo="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Gradstand (CF) 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
-#http://d14sysfrzu8fji.cloudfront.net/grand.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
-#https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
-#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
+#EXTINF:-1 tvg-id="AstroGrandstand" group-logo="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Gradstand (PFT) 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/grandstand
 
 
-
-#EXTINF:-1 group-logo="" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-logo="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League (CF) 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18623
-#http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
-#https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
+#EXTINF:-1 group-logo="" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-logo="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League (PFT) 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/premierleague
 
 
-#EXTINF:-1 tvg-id="AstroPremierLeague2" group-logo="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League 2 (CF)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier2.mpd
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18622
-#http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
-#http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
-#http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+#EXTINF:-1 tvg-id="AstroPremierLeague2" group-logo="" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League 2 (PFT)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/premierleague2
+
 ************************************************************************************
 
 
@@ -729,10 +700,11 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 #https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport Motogp
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport Motogp
 #EXTGRP:Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+http://extraott.com:80/live/3969424152/3723991250/35386.m3u8
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
 
@@ -3772,29 +3744,61 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola (PFT)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/arenabola
+******************************************************************************************
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola (CF)
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
+#http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
+#https://d3o53knqf32abi.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola_Production/masterCH1.mpd
+#https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 
-#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola 2 (PFT)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/arenabola2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola 2 (CF)
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
+#http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
+#http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
+#https://d2lrh0h3f3ck4u.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola2_Production/masterCH5.mpd
+#https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
-#EXTINF:-1 tvg-id="AstroGrandstand" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Gradstand (PFT) 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/grandstand
+
+#EXTINF:-1 tvg-id="AstroGrandstand" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Gradstand (CF) 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
+#http://d14sysfrzu8fji.cloudfront.net/grand.mpd
+#http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
+#https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
 
 
-#EXTINF:-1 group-logo="" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League (PFT) 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/premierleague
+
+#EXTINF:-1 group-logo="" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League (CF) 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18623
+#http://d14sysfrzu8fji.cloudfront.net/premier1.mpd
+#http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
+#https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
 
 
-#EXTINF:-1 tvg-id="AstroPremierLeague2" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League 2 (PFT)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/premierleague2
+#EXTINF:-1 tvg-id="AstroPremierLeague2" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League 2 (CF)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier2.mpd
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18622
+#http://d14sysfrzu8fji.cloudfront.net/premier2.mpd
+#http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
+#http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+******************************************************************************************
+
 
 
 
