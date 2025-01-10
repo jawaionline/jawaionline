@@ -2636,7 +2636,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV (PFT)
 #EXTGRP:Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
 #https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
@@ -2646,12 +2646,14 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
 
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria (PFT)
 #EXTGRP:Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/3
 
 
 
 #EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra (PFT)
 #EXTGRP:Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/4
 
 
@@ -2659,6 +2661,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/4
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/180px-Astro_Prima_%282024%29.png",Astro Prima (PFT)
 #EXTGRP:Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1
 
 *****************************************************************************
