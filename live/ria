@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://perfecttv.net:8080/Perfecttv/Perfecttv/3
+https://perfecttv.net/Perfecttv/Perfecttv/3
