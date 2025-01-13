@@ -444,7 +444,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mp
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola (PFT)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/arenabola
+http://31.42.187.37:25461/watchpad13158/1234/4648
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/arenabola
 
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="Sports",Astro Arena Bola 2 (PFT)
