@@ -2371,7 +2371,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
 #EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
@@ -2774,12 +2774,12 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1771908664.m3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/singkawang.png" group-title="Lokal Daerah",Singkawang TV (*)
-https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="Lokal Daerah",Sambas TV (*)
-https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
+#https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
 
 
 #EXTINF:0 tvg-id="TVRIWestKalimantan.id" tvg-logo="https://logo.iptveditor.com/tvri.png" group-title="Lokal Daerah", TVRI Kalbar (*)
