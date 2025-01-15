@@ -2371,7 +2371,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
 #EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
