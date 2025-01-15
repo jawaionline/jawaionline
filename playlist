@@ -83,7 +83,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sle
 #https://cdn09jtedge.indihometv.com/dvr/139/trans7/manifest.mpd
 
 
-#EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/net-tv.png" group-title="Nasional",NET.HD (D)
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/300px-MDTV_logo.svg.png" group-title="Nasional",MDTV (D)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
