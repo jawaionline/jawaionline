@@ -533,8 +533,10 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:-1 tvg-id="beINSports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",beIN Sports MY 4
 #EXTGRP:Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c1d76aed92f1c2e71674b1a88b340e0:bef9d6dea1088b90d97a1c96c04de141
+#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
 https://web.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoQRgj%2BxuDUR2uKbIcca0%2F7O%2FKiggUsUIMM3ea06Hp1YuyoKcpl0e4a0zbHhKPy16D%3A20240429163948%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163948%2Curn:Huawei:liveTV:XTV57682031%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybL0JummC6yUgRBqmB1K7fJbSxNG02q4N9rfWxn5gxnimhos9IADYoCCoN5JmXRlEpYZS3JNpckG2CJblXQghn0vhtdFeyMnQ7LM2Q840IAV6ye39Ye3W9Y3YeGooY_daD46Axpm1r-wMTRuUgOpy6MfO_xeYz-N2FU_80WIKWQSkFZ5mya0xpT_27YBdMyDFeMZLfBfQDdok_Ermh6dFThQHq8e__ldtG-bV5P1GaV8wAAAA&tenantId=6001
 
 
@@ -861,7 +863,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="GolfChannel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",NBC Golf Channel (A)
 #EXTGRP:Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#KODIPROP:inputstream.adaptive.license_key=bef29d5caac3628eb1efae8a215fae10:645a0014ea459a86cfa72cf8137bb4a7
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
@@ -870,7 +872,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="GolfChannel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",NBC Golf Channel (A)
 #EXTGRP:Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef29d5caac3628eb1efae8a215fae10:645a0014ea459a86cfa72cf8137bb4a7
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
@@ -3228,7 +3230,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR
@@ -3245,7 +3247,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=204&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 
 
 
@@ -3254,7 +3256,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=206&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
 
 
 
