@@ -1,7 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:0
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://perfecttv.net/Perfecttv/Perfecttv/1
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:1
+#EXTINF:1
+http://iptv12k.com:35461/654321/123456/734
+#https://perfecttv.net/Perfecttv/Perfecttv/1
