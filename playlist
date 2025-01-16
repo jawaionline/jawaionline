@@ -3082,17 +3082,19 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv2
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji
+https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji2
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856 
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji2
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
