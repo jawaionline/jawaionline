@@ -3715,7 +3715,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/320px-Astro_Arena_Bola_1_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola (CF)
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
+https://fbd719b38a2949649202927b13e7f090.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola_Production/masterCH1.mpd
+#https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
 #http://d14sysfrzu8fji.cloudfront.net/bola1.mpd
 #https://d3o53knqf32abi.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola_Production/masterCH1.mpd
 #https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
@@ -3724,7 +3725,8 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola 2 (CF)
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
+https://d3o53knqf32abi.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola_Production/masterCH5.mpd
+#https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
 #http://d14sysfrzu8fji.cloudfront.net/bola2.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 #https://d2lrh0h3f3ck4u.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola2_Production/masterCH5.mpd
@@ -3735,8 +3737,8 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bola2.mpd
 #EXTINF:-1 tvg-id="AstroGrandstand" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Gradstand (CF) 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
-#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/18621
+http://d3ey18635ukr4v.cloudfront.net/grand.mpd
+#https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
 #http://d14sysfrzu8fji.cloudfront.net/grand.mpd
 #http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 #https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
@@ -3797,6 +3799,13 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
 
 
 
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola 2 (B)
+http://d1fk7kbmz4il3.cloudfront.net/bola2.mpd
 ******************************************************************************************
 
 
