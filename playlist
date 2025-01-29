@@ -1618,7 +1618,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6533&type=drm
-#EXTINF:-1 tvg-id="XXXX" group-title="VIDIO" group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png",Zoomoo (Vid)
+#EXTINF:-1 tvg-id="XXXX" group-title="Kids and Animation" group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png",Zoomoo (Vid)
 https://sweet-night-1d1d.worst.workers.dev/?id=6533&type=hls
 
 
