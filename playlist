@@ -193,13 +193,11 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=drm
-#EXTINF:-1 tvg-id="XXXX" group-title="Nasional" group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png",Elshinta TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=hls
+#EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/1197px-SindoNewsTV_2023.png?" group-title="Nasional",SindoNewsTV (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 
 
@@ -1930,11 +1928,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 group-title="News" tvg-id="Antara.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Antara_%28news_agency%29_logo.svg/768px-Antara_%28news_agency%29_logo.svg.png",Antara TV (IH)
 #https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
-#EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/1197px-SindoNewsTV_2023.png?" group-title="News",SindoNewsTV (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
 
 #EXTINF:0 tvg-id="IDX.id" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="News",IDX (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2029,6 +2023,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
 https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News HD" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Sky_News_HD.png",Sky News HD (A)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+
 
 ########################
 ######## RELIGI ########
@@ -2848,6 +2852,16 @@ https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/225px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Lokal Daerah",JTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=drm
+#EXTINF:-1 tvg-id="XXXX" group-title="Lokal Daerah" group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png",Elshinta TV (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=10975&type=hls
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
