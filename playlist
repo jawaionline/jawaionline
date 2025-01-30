@@ -175,11 +175,7 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 
 
-#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/btv.png" group-title="Nasional",Berita Satu (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
-https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://logo.iptveditor.com/cnnindonesia.png" group-title="Nasional",CNN Indonesia (*)
 #https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880834
@@ -224,6 +220,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+
 
 
 ########################
