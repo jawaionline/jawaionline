@@ -421,9 +421,9 @@ https://linearjitp02-playback.astro.com.my//dash-wv/linear/5172/default_primary.
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
-#EXTINF:-1 tvg-id="AstroSportsUHD" group-logo="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",Astro Sport UHD
+#EXTINF:-1 tvg-id="AstroSportsUHD" group-logo="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",Astro Sport UHD (Sooka)
 https://linear16-playback.sooka.my/CH1/masterCH1.mpd
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 
 
@@ -3872,21 +3872,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="BACKUP", Astro Grandstand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-#https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
 
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="BACKUP", PremierLeague 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BACKUP",Live Event Airing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 
@@ -3977,18 +3963,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="BACKUP", Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+#https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="BACKUP", PremierLeague 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BACKUP",Live Event Airing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
+
 
 ***********************************************************************************
 <!---- CHANGE TOKEN ---->
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola4/
-#EXTINF:-1 group-logo="" group-title="BACKUP" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="A805.astro",Astro Sports UHD (utk normalisasi chanel yg di awah)
-#https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 
 
 
