@@ -3986,7 +3986,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSmlNRFF6TkRBdE1UWXhPQzAwT0RNeUxUbG1PVEl0TUdWaU1UWmhaRGM0WWpkbCIsIndtb3BpZCI6MzIsImV4cCI6MTczOTAyMDMyMSwiaWF0IjoxNzM4NDE2MzIxfQ.nR6yziN3B691JMpQ80hV65-CZkkQR_S_d788TpHmtwA"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola/
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
 #EXTINF:-1 group-logo="" group-title="BACKUP" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="AstroArenaBola",Arena Bola
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
