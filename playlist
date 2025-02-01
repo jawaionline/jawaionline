@@ -422,8 +422,9 @@ https://linearjitp02-playback.astro.com.my//dash-wv/linear/5172/default_primary.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
 #EXTINF:-1 tvg-id="AstroSportsUHD" group-logo="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",Astro Sport UHD
+https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
-#https://linear16-playback.sooka.my/CH1/masterCH1.mpd
+
 
 
 
@@ -3978,6 +3979,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 ***********************************************************************************
+<!---- CHANGE TOKEN ---->
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3986,7 +3988,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola4/
 #EXTINF:-1 group-logo="" group-title="BACKUP" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="A805.astro",Astro Sports UHD (utk normalisasi chanel yg di awah)
-https://linear16-playback.sooka.my/CH1/masterCH1.mpd
+#https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 
 
 
