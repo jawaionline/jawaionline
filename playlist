@@ -3823,10 +3823,7 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
 
 
-#EXTINF:-1 tvg-id="ATV.id" group-title="BACKUP" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true",ATV (IH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+
 
 
 
@@ -3872,7 +3869,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="BACKUP", Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+#https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
 
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="BACKUP", PremierLeague 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BACKUP",Live Event Airing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 
@@ -3962,22 +3973,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 
 
+#EXTINF:-1 tvg-id="ATV.id" group-title="BACKUP" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true",ATV (IH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="BACKUP", Astro Grandstand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-#https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="BACKUP", PremierLeague 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BACKUP",Live Event Airing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 ***********************************************************************************
