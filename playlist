@@ -841,7 +841,7 @@ https://ssc-extra-3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/
 
 
 
-#EXTINF:-1 tvg-id="701" group-logo="" group-title="Sports" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports 1
+#EXTINF:-1 tvg-id="701" group-logo="" group-title="Sports" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -977,7 +977,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="Sports" group-logo="" tvg-logo="https://iili.io/1Nz7Kx.png",Eurosport (A)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png",Premier Sports (A)
 #EXTGRP:Sports
@@ -4082,14 +4089,7 @@ https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 
 ******************************************************************************************
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="BACKUP" group-logo="" tvg-logo="https://iili.io/1Nz7Kx.png",Eurosport (A)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+
 
 
 
@@ -4142,6 +4142,49 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUUTBOVGsyWW1FdE9EUTNNQzAwTWpRMExUbGlNMll0TWpJd05XVTVPRGcxWWpreSIsIndtb3BpZCI6MzIsImV4cCI6MTczODcyNDc5MywiaWF0IjoxNzM4MTIwNzkzfQ.nIoEdv6-k-awfhWDJNWSVj9tIX2_Lk16AsuVNaurtTE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola2/
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/320px-Astro_Arena_Bola_2_%282024%29.png" group-logo="" group-title="BACKUP",Astro Arena Bola 2 (Sooka) TEST
+https://l02.dp.sooka.my/5100/linear/index.mpd
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUUTBOVGsyWW1FdE9EUTNNQzAwTWpRMExUbGlNMll0TWpJd05XVTVPRGcxWWpreSIsIndtb3BpZCI6MzIsImV4cCI6MTczODcyNDc5MywiaWF0IjoxNzM4MTIwNzkzfQ.nIoEdv6-k-awfhWDJNWSVj9tIX2_Lk16AsuVNaurtTE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola2/
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="BACKUP" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" tvg-id="AstroArenaBola2",Arena Bola 2 TEST
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUUTBOVGsyWW1FdE9EUTNNQzAwTWpRMExUbGlNMll0TWpJd05XVTVPRGcxWWpreSIsIndtb3BpZCI6MzIsImV4cCI6MTczODcyNDc5MywiaWF0IjoxNzM4MTIwNzkzfQ.nIoEdv6-k-awfhWDJNWSVj9tIX2_Lk16AsuVNaurtTE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola2/
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="BACKUP" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/469f5d2cf01b4e4dbc7453da288d603c/version/0/width/500/height/280" tvg-id="804.astro",Arena Bola 2 (NEW) TEST
+https://d2lrh0h3f3ck4u.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ArenaBola2_Production/masterCH5.mpd
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUUTBOVGsyWW1FdE9EUTNNQzAwTWpRMExUbGlNMll0TWpJd05XVTVPRGcxWWpreSIsIndtb3BpZCI6MzIsImV4cCI6MTczODcyNDc5MywiaWF0IjoxNzM4MTIwNzkzfQ.nIoEdv6-k-awfhWDJNWSVj9tIX2_Lk16AsuVNaurtTE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.danng.me/sooka/arenabola3/
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="BACKUP" tvg-logo="https://telegra.ph/file/027d18a908471d18906c5.png" tvg-id="AstroArenaBola3",Arena Bola 3 TEST
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 
 
