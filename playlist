@@ -155,9 +155,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png" group-title="Nasional",Berita Satu (D)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 
 
