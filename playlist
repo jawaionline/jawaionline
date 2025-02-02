@@ -31,6 +31,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sctv.png" group-title="Nasional",SCTV (D)
@@ -87,6 +88,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sle
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #https://raw.githubusercontent.com/eepunx/cancan/main/net
 #http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
@@ -125,7 +127,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 #http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 https://raw.githubusercontent.com/eepunx/cancan/main/tvon
+
+
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/kompastv.png" group-title="Nasional",Kompas TV (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -135,6 +140,7 @@ https://raw.githubusercontent.com/eepunx/cancan/main/tvon
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metrotv.png" group-title="Nasional",Metro TV (V+)
@@ -147,8 +153,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
 
-#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png" group-title="Nasional",Berita Satu (*)
+#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png" group-title="Nasional",Berita Satu (D)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 
@@ -2471,11 +2478,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 #EXTINF:0 tvg-id="VisionPrime.id" tvg-logo="https://i.imgur.com/dKnWI2O.png" group-title="Lifestyle",Vision Prime (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="37" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWXWfe9POBubowe6fJRFdYBJs4ZJ8CEznIQ&s" group-title="Lifestyle",TV5MONDE Style HD (D)
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWXWfe9POBubowe6fJRFdYBJs4ZJ8CEznIQ&s" group-title="Lifestyle",TV5MONDE Style HD (D)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #https://op-group1-swiftservesd-1.dens.tv/h121/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_Style_HD
-#https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD
 
 #EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="Lifestyle",DensLife and Style (D)
@@ -3955,7 +3962,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria (CF)
+#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria (PFT)
 #EXTGRP:BACKUP
 https://linearjitp.perfecttv.net/ria.mpd
 #https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
@@ -3966,7 +3973,7 @@ https://linearjitp.perfecttv.net/ria.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/180px-Astro_Prima_%282024%29.png",Astro Prima (CF)
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/180px-Astro_Prima_%282024%29.png",Astro Prima (PFT)
 #EXTGRP:BACKUP
 https://linearjitp.perfecttv.net/prima.mpd
 #https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
