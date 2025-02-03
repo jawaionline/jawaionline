@@ -417,9 +417,8 @@ https://linearjitp02-playback.astro.com.my//dash-wv/linear/5172/default_primary.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
-
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -429,7 +428,7 @@ https://linearjitp02-playback.astro.com.my//dash-wv/linear/5172/default_primary.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
 #EXTINF:-1 tvg-id="AstroSportsUHD" group-logo="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png",Astro Sport UHD (Sooka)
-https://linear16-playback.sooka.my/CH1/masterCH1.mpd
+#https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 
@@ -849,10 +848,17 @@ https://ssc-extra-3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/
 
 
 
-#EXTINF:-1 tvg-id="701" group-logo="" group-title="Sports" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports
+
+#EXTINF:-1 tvg-id="701" group-logo="" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",Unifi Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-id="701" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Sports",Unifi Sports
+#https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="Sports",Unifi Sports
@@ -861,6 +867,7 @@ https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 #https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+
 
 
 
@@ -990,7 +997,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="Sports" group-logo="" tvg-logo="https://iili.io/1Nz7Kx.png",Eurosport (A)
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="Sports" group-logo="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/eurosport.png",Eurosport (A)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
@@ -2381,28 +2388,31 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="Lifestyle",Fashion TV (IH)
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-3119A6D926-seeklogo.com.png" group-title="Lifestyle",Fashion TV (IH)
 https://streaming.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1280x720_3000k.m3u8
 #https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/2/profileManifest.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
+
+
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="Lifestyle",Fashion TV L'Original (*)
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashiontv.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1280x720_3000k.m3u8
 
-#EXTINF:-1 tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="Lifestyle",Fashion TV Midnight Secrets (*)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2550000_t64NzIwcA==.m3u8
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Lifestyle",Fashion TV Midnight Secrets (*)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2550000_t64NzIwcA==.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="Lifestyle",Fashion TV Paris (*)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uE4EMmh.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.cz" tvg-name="FashionTV.cz", FashionTV Czech&Slovak
+#EXTINF:-1 tvg-logo="https://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-pondelok.png" group-title="Lifestyle" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.cz" tvg-name="FashionTV.cz", FashionTV Czech&Slovak
 https://warningfm.github.io/v3/live/str/fs/364bfe25097b975.m3u8
 
 
@@ -2829,7 +2839,36 @@ https://linearjitp.perfecttv.net/citra.mpd
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria (PFT)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/ria
+
 *****************************************************************************
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab 
+#EXTINF:-1 tvg-id="" tvg-name="Inspirasi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503" group-logo="" group-title="Malaysia",Inspirasi Unifi
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz 
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="Malaysia",Dunia Sinema HD Unifi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="SIAR" group-logo="" group-title="UNIFI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129",Siar Unifi
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Salam HD"group-logo="" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD Unifi
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+
 
 
 
@@ -2857,13 +2896,6 @@ https://linearjitp.perfecttv.net/citra.mpd
 #https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 
-#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC (CF)
-#EXTGRP:Malaysia
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwNzM4NjI1NiwiaWF0IjoxNzA2NzgyMjU2fQ.InCfxRkBMfAp-90m-zYSqGX37GRW2U369zeXLOsophs"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
-#https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EF2iz96.png",Selangor TV
@@ -2884,13 +2916,6 @@ https://linearjitp.perfecttv.net/citra.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=i+FR+Ei7v4tKojZu+w2OzF/BR+vfwKOeI+eukO4kQtxh/zIzZJaeZKSUaIr57TLDz1oUQ6OxWM7tN4gBBY1SA1OtFdWWApwo8Xq4d/yDFoNnMTcXrd3ZEW1en0PXQUanQ8hLGYcrK28KN05xe9jDnA==:20230619183513:UTC,1006594212,203.106.115.36,20230619183513,urn:Huawei:liveTV:XTV55631601,1006594212,-1,0,1,,,2,,,,2,4640591,0,3560051,782fbed4-d36e-3b0f-920b-a0985094f3e2,,,2,1,END&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.154_80&hms_devid=1745&mag_hms=1745,1787,1796,1790&it=H4sIAAAAAAAAA0XMTwvCIBiA8W_jUeafDT14KoIuEqy6xqu-ysBN0jXo28ci6P78nrWCx_PRRNE7ZBKGoEAGHyDGoWcKtZKOaS1Iw6ctRhAPOU9LsiXs7D4eHqyjHeWcUSHJdd-dMiTDv6V9zQ7rn41Yt8mjCS3SDRqFlComWKey0EuG963mX_IBAPNhDZkAAAA
 
-
-
-
-#EXTINF:-1 tvg-id="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
-#https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-#https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880812
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 
 
@@ -3941,7 +3966,6 @@ https://aseanic.github.io/hls/167.m3u8
 
 
 #EXTINF:-1 group-logo="" tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-logo="" group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League (CF) 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 https://aseanic.github.io/hls/168.m3u8
@@ -4099,14 +4123,6 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 https://linear14-playback.sooka.my/CH4/masterCH4.mpd
 
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="" group-title="BACKUP" tvg-logo="https://telegra.ph/file/b8014819ea652fb587022.png" tvg-id="Eurosport",Eurosport
-https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 ******************************************************************************************
 
 
