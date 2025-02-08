@@ -125,7 +125,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvone.png" group-title="Nasional",tvOne HD (D)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
@@ -135,12 +135,11 @@ https://raw.githubusercontent.com/eepunx/cancan/main/tvon
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/kompastv.png" group-title="Nasional",Kompas TV (D)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://video.jixie.media/live-test/kompastv.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
