@@ -3028,12 +3028,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 ########### THAILAND ############
 #################################
 
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://seeklogo.com/images/P/pptv-logo-7B93FBF467-seeklogo.com.png" group-title="Thailand",PPTV HD
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://sport.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://seeklogo.com/images/P/pptv-logo-7B93FBF467-seeklogo.com.png",PPTV 36 HD
+#EXTGRP: Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://cnt1-streamer15.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#https://sport.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8
 #https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
-#https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="True 4 U.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png" group-title="Thailand",True4U
@@ -3051,25 +3054,35 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playl
 https://sport.livedoomovies.com:4432/02_NBTSD_480p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="MONO.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",Mono 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTINF:-1 tvg-id="MONO.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",Mono 29
+#EXTGRP: Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cnt1-streamer17.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://sport.livedoomovies.com:4432/02_MONO_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 
 
-#EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png" group-title="Thailand",Amarin TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+
+#EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png",Amarin TV HD
+#EXTGRP: Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://sport.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8
+#https://sport.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Thai TV 5 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand",Channel 5 HD
+
+
+#EXTINF:-1 tvg-id="Thai TV 5 HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png",Channel 5 HD
+#EXTGRP: Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://sport.livedoomovies.com:4432/02_5HD_720p/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ONE 31 HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="Thailand",GMM One 31
@@ -3108,11 +3121,15 @@ https://sport.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TPBS 3 .th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/800px-Thai_PBS_2015.svg.png" group-title="Thailand",Thai PBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="TPBS 3 .th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/800px-Thai_PBS_2015.svg.png",Thai PBS
+#EXTGRP: Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-https://sport.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#https://sport.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="NN.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TNN16_Logo.png" group-title="Thailand",TNN 16
@@ -3144,8 +3161,11 @@ https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 https://sport.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-logo="https://i.ibb.co.com/Dw2H3Xm/thairath32.png",Thairath 32
+#EXTGRP: Thailand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cnt1-streamer19.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 
 ########################
@@ -3194,8 +3214,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;useri
 
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 #EXTINF:-1 group-title="Singapore" tvg-id="Channel 5" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 #https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+
+#EXTINF:-1 group-title="Singapore" tvg-id="Channel 5" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea574677cd96492497e71a9021b2c3ed:e0b7845bb59fde72bba99aec30518cb8
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
@@ -3314,19 +3341,17 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
-#EXTINF:-1  group-title="LIVE EVENT" tvg-logo="276215768%27&EntityType=%27Item%27&EntityId=%2798202%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",M LIVE 5
+#EXTINF:-1 tvg-id="LIVE 5.sg" tvg-logo="276215768%27&EntityType=%27Item%27&EntityId=%2798202%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",M LIVE 5
+#EXTGRP: LIVE EVENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-#https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-
-#EXTINF:-1  group-title="LIVE EVENT" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278400597%27&EntityType=%27LinearSchedule%27&EntityId=%2752daa5ba-ab30-4087-9384-7f42b089035b%27&Width=1280&Height=720",M LIVE 6
+#EXTINF:-1 tvg-id="LIVE 6.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278400597%27&EntityType=%27LinearSchedule%27&EntityId=%2752daa5ba-ab30-4087-9384-7f42b089035b%27&Width=1280&Height=720",M LIVE 6
+#EXTGRP: LIVE EVENT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-#https://mwmpos02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-#https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
@@ -4201,3 +4226,56 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Nol Km Jogja
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Simpang Nol Km
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Nol Km - Timur
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Nol Km - Utara
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Nol Km - Gd. Agung
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Alun-Alun Kidul
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Simpang Reksobayan
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Pasar Beringharjo
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Gunungmas
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Plaza
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Mall Selatan
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Mall Utara
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Perwakilan
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Malioboro_Utara_Inna_Malioboro
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Pasar Beringharjo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Simpang Tugu Jogja
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Candi Prambanan
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Candi Ratu Boko
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Tebing Breksi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Simpang Ibu Ruswo
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Pos Polisi Jombor
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/PosPolisi_Jombor.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Fly Over Jombor Utara
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborUtara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Fly Over Jombor Timur
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborTimur.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Fly Over Jombor Barat
+https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/playlist.m3u8
