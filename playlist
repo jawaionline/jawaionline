@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 09/02/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 10/02/2025"
 
 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
@@ -422,7 +422,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EY3dObUkwTlRBdE1EWTBNQzAwWWpBNExXSmxObVF0TnpnMlpUUTNOemt6WTJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTczMzcwMjgxMSwiaWF0IjoxNzMzMDk4ODExfQ.fVegJUmQ5dR22Onq22su9LtCOWoiWbkkv8NsSLTMwrk"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
@@ -473,7 +473,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mp
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
@@ -482,7 +482,7 @@ https://l01.dp.sooka.my/5099/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
@@ -508,7 +508,7 @@ https://l02.dp.sooka.my/5100/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzkwNTUxMDUsImlzcyI6IlZSIiwiZXhwIjoxNzM5MTQwMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjJiMDU4OGItY2VhZi00YjA2LWJkYmUtOTJhNTM2ZTNiY2M1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.NqaifeFfR29fogQj5JBJOksnY7jpP2hRCi6hNBJOXHg"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e676c88f5cc74beebed5f6fb6406c23c":"7091db9a73ccea572d2b7b4461f0c8e5","28bfcc9774644bda822c17a35660164c":"620dba660d3e1f42acd6b077b4ca1dd8"}
@@ -522,7 +522,7 @@ https://l16.dp.sooka.my/5171/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71","505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035"}
@@ -531,7 +531,7 @@ https://l03.dp.sooka.my/2701/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
@@ -540,7 +540,7 @@ https://l01.dp.sooka.my/601/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
@@ -896,6 +896,18 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-id="701" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Sports",Unifi Sports
+#https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+#EXTINF:-1 tvg-id="701" group-logo="" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",Unifi Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
+https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tnt-sports1.png",TNT Sports 1
 #EXTGRP:Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -938,16 +950,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 
 
 
-#EXTINF:-1 tvg-id="701" group-logo="" group-title="Sports" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",Unifi Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
-https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-id="701" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Sports",Unifi Sports
-#https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 
@@ -2800,7 +2803,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
@@ -2809,7 +2812,7 @@ https://l18.dp.sooka.my/1000/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c15541e4dde34c48a0d144a4b0ab7194":"ce82e3d81126183e5a262e320f6348b3","d5249cb40505495494828f42c37087cb":"d59f6a7bed00bd5348355ab5b3ee6aa0"}
@@ -3269,15 +3272,16 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/main/IndosiarHD.m3u8
 #http://xtv.ooo:8080/88654455/97543255/350972
 #https://play1nm.hnyongshun.cn/live/ballbar_16890.m3u8
 #https://play1nm.hnyongshun.cn/live/ballbar_24840.m3u8
 #https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://github.com/whs4030/WahyuIPTV/blob/main/IndosiarHD.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar2
 #http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
 #https://play1nm.hnyongshun.cn/live/ballbar_16580.m3u8
