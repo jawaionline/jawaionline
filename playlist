@@ -133,14 +133,15 @@ https://raw.githubusercontent.com/eepunx/cancan/main/tvon
 
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/kompastv.png" group-title="Nasional",Kompas TV (D)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 #https://video.jixie.media/live-test/kompastv.m3u8
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576 
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-http://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+
 
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metrotv.png" group-title="Nasional",Metro TV (V+)
@@ -2655,7 +2656,7 @@ https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.co
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTczOTc1MjA0NCwiaWF0IjoxNzM5MTQ4MDQ0fQ.bQr7YuBzR3JVRs2PuBK5V7_d4P7VF4iPOqaPm0Qrvxo"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }  
