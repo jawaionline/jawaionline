@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 10/02/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 15/02/2025"
 
 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
@@ -4073,7 +4073,23 @@ https://linearjitp.perfecttv.net/prima.mpd
 
 
 
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
 
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (720)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (1080)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
 
 
