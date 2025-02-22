@@ -93,12 +93,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
 
-
-#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rtv.png" group-title="Nasional",RTV (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rtv.png" group-title="Nasional",RTV (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 
 
 #EXTINF:-1 group-title="Nasional" tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/tvri-nasional.png",TVRI Nasional (*)
@@ -2182,21 +2179,31 @@ https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.
 ########################
 
 
-#EXTINF:-1 group-title="Knowledge" tvg-id="discoverychannelindonesia.id" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel (FM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEL1TDm.png" group-title="Knowledge" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel",Discovery Channel (FM)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-#https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryAsia.sg" tvg-logo="https://logo.iptveditor.com/discoveryasia.png",Discovery Asia (FM)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
+#EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://i.imgur.com/CO7N8wc.png",Animal Planet (FM)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEL1TDm.png" group-title="Knowledge" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel",Discovery Channel (IH)
-https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2204,37 +2211,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryAsia.sg" tvg-logo="https://logo.iptveditor.com/discoveryasia.png",Discovery Asia (IH)
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-
-
-#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryChannel.id" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-
-
-#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryAsia" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia",Discovery Asia (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/501/default.mpd
-
-
-
-
-#EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://i.imgur.com/CO7N8wc.png",Animal Planet (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2710/default.mpd
-#http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://i.imgur.com/CO7N8wc.png",Animal Planet (IH)
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 
 
@@ -2283,19 +2268,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
 
-#EXTINF:-1 ch-number="" tvg-id="DMAX" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2610/default.mpd
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
-#https://1.yurend.xyz/dash-wv/linear/2610/default_primary.mpd
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
-
 #EXTINF:-1 ch-number="" tvg-id="DMAX" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX (FM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
-#https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 
 #EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-name="Global Trekker" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/GlobalTrekker.png" group-title="Knowledge",Global Trekker (V+)
@@ -2312,10 +2289,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
 
-#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel (A)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2510/default.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://assets.wired2fish.com/uploads/2021/08/logo-wired2fish.png" group-title="Knowledge",Wired 2 Fish
@@ -2385,14 +2358,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg" group-title="Lifestyle",Fashion TV (FM)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-3119A6D926-seeklogo.com.png" group-title="Lifestyle",Fashion TV (IH)
-https://streaming.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1280x720_3000k.m3u8
+#https://streaming.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+#https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1280x720_3000k.m3u8
 #https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/2/profileManifest.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
@@ -3188,6 +3165,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="MTV90s" group-title="Music" tvg-logo="https://logo.iptveditor.com/mtv90s.png",MTV 90's (FM)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e1d75138efd44969abf01914a47ff54:d0c52fed5210338569837a61e3e0b675
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -3796,6 +3781,14 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/596-LOGO-l.png" group-title="BACKUP",NET.HD (V)
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/588-LOGO-l.png" group-title="BACKUP",RTV (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
