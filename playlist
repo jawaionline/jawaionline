@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 22/02/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 23/02/2025"
 
 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
@@ -94,7 +94,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/rtv.png" group-title="Nasional",RTV (D)
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
 
 
@@ -1660,12 +1662,15 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 
-
 #EXTINF:-1 tvg-name="AniplusAsia.sg" tvg-logo="https://logo.iptveditor.com/aniplus.png" group-title="Kids and Animation",Aniplus (D)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/aniplus
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/aniplus
+
+
+#EXTINF:-1 tvg-name="AniplusAsia.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Aniplus.svg/revision/latest/scale-to-width-down/1200" group-title="Kids and Animation",Aniplus (D)
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 
 #EXTINF:0 tvg-id="BabyTV - [Channel 40].id" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="Kids and Animation",Baby TV (V+)
@@ -1942,7 +1947,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+#http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
 
 #EXTINF:-1 tvg-id="MyFamily.id" tvg-name="My Family Channel" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title="Movies",My Family Channel (D)
@@ -1951,6 +1956,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+
+
+#EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies",Rock Entertainment (D)
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-name="My Family Channel" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title="Movies",My Family Channel (D)
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 
 #EXTINF:-1 tvg-id="MyCinema" tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="Movies",My Cinema (D)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3010,7 +3025,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #################################
 
 
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://seeklogo.com/images/P/pptv-logo-7B93FBF467-seeklogo.com.png",PPTV 36 HD
+#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV 36 HD
 #EXTGRP: Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
@@ -3023,8 +3038,10 @@ https://cnt1-streamer15.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-id="True 4 U.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/True4U2.png" group-title="Thailand",True4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://sport.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8
+https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+#https://sport.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8
 #https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="NBT 2 HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="Thailand",NBT 2 SD
@@ -3049,6 +3066,7 @@ https://sport.livedoomovies.com:4432/02_MONO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Amarin_TV_2014.png",Amarin TV HD
 #EXTGRP: Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8
 http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 #https://sport.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8
@@ -3069,15 +3087,17 @@ https://sport.livedoomovies.com:4432/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ONE 31 HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="Thailand",GMM One 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
 https://sport.livedoomovies.com:4432/02_GMMONE_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png" group-title="Thailand",Channel 3 HD
+#EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="Thailand",Channel 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8
 https://sport.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 
@@ -3098,11 +3118,12 @@ https://sport.livedoomovies.com:4432/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="CH7 HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Thailand",Channel 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
+http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
 https://sport.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TPBS 3 .th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/800px-Thai_PBS_2015.svg.png",Thai PBS
+#EXTINF:-1 tvg-id="TPBS 3 .th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",Thai PBS
 #EXTGRP: Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
@@ -3124,6 +3145,7 @@ https://sport.livedoomovies.com:4432/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Workpoint TV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png/revision/latest/scale-to-width-down/1200?cb=20170508090614" group-title="Thailand",Workpoint HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8
 https://sport.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
 #https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
 #https://edge2a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
@@ -3131,18 +3153,19 @@ https://sport.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png" group-title="Thailand",Channel 8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8
 https://sport.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8
 #https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="T-Sports7.th" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjszmjgCs5RG7HQ3qYRW8_Yk_3rrq0Mhv6bSRmUid4hdal23zPAlZAqYQFYdKKCncc_TxoybNKhmwEePOb7qg9EwrJ-XeMhawwdJt9QbwntHSgQg4nu7fTe-mtNxbXmweVW0YqxTBWnpvrLnTxROBdJERsxCP1UR9Ns66KYZJobQNiJodieGbVJJNpl/w1200-h630-p-k-no-nu/bisskey%20t%20sports%207.jpg" group-title="Thailand",T Sports
+#EXTINF:-1 tvg-id="T-Sports7.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png" group-title="Thailand",T Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 https://sport.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8
+#https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-logo="https://i.ibb.co.com/Dw2H3Xm/thairath32.png",Thairath 32
+#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath 32
 #EXTGRP: Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
