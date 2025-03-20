@@ -3446,9 +3446,13 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#https://output.unregister.xyz/euro/u17inavsaus_hd/index.m3u8
-#https://midcache2.rctiplus.id/live/futsal_afc1_720p/index.m3u8
-#https://output.unregister.xyz/euro/inavsjapan2024_hd/index.m3u8
+https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
+#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d37nf5n4fr3338.cloudfront.net/index_5.m3u8
 
 
 
