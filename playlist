@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 20/03/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 21/03/2025"
 
 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
@@ -137,10 +137,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metrotv.png" group-title="Nasional",Metro TV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -158,16 +154,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=drm
+#EXTINF:-1 group-title="Nasional" tvg-id="Mentari TV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mentaritv.png",Mentari TV (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
 
 
-#EXTINF:-1 group-title="Nasional" tvg-id="Mentari TV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mentaritv.png",Mentari TV (IH)
-#http://tvnid.x10.mx/1/master-3.m3u8
-#https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTINF:-1 group-title="Nasional" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji.png",Moji HD (IH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 group-title="Nasional" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji.png",Moji HD (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#https://bit.ly/playlist-moji
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+http://210.210.155.35/x6bnqe/s/s41/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 
 
 
@@ -3357,6 +3358,19 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
 
 
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
+#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
+#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d37nf5n4fr3338.cloudfront.net/index_5.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=  :
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="LIVE EVENT",M LIVE 1
@@ -3442,17 +3456,7 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
-#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
-#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d37nf5n4fr3338.cloudfront.net/index_5.m3u8
 
 
 
@@ -3820,7 +3824,7 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/596-LOGO-l.png" group-title="BACKUP",NET.HD (V)
+#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/596-LOGO-l.png" group-title="BACKUP",MDTV (V)
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
@@ -3845,12 +3849,11 @@ http://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
-#EXTINF:-1 group-title="BACKUP" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji-v2.png",Moji (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#https://bit.ly/playlist-moji
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-http://210.210.155.35/x6bnqe/s/s41/index.m3u8
-https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
+#EXTINF:-1 group-title="BACKUP" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji-v2.png",Moji (IH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -3888,13 +3891,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=drm
-#EXTINF:-1 group-title="BACKUP" tvg-id="Mentari TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
+
+
+
+#EXTINF:-1 group-title="BACKUP" tvg-id="Mentari TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV (IH)
+#http://tvnid.x10.mx/1/master-3.m3u8
+#https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+
+
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4107,25 +4115,10 @@ https://linearjitp.perfecttv.net/prima.mpd
 
 
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
-
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
-
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 
 
 
-
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="BACKUP",SportOne_TH
+#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="BACKUP",SportOne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://cnt1-streamer15.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
