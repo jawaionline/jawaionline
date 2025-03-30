@@ -78,7 +78,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b744100_sl
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/trans7.png",Trans 7 HD (*)
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sleng.m3u8
+https://live-b.cf.dmcdn.net/sec2(DZSRDu8GZ8-x4Kr3NA_2A-c2EDFAACYTqSE0aJZA_HgN_QVl8SPKfSdbbtLzTgLSpBdCi_GUfc3yTfKrwgFyUtggc3xm3caE8KsNQLYqIocbCwChif2fdkZ1X7gW5RnG)/dm/3/x8qckyq/s/live-720.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sleng.m3u8
 #https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
