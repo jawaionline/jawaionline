@@ -3415,7 +3415,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar2/sa_hls_2s/rcti-sportstar2.m3u8
+#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 
@@ -3847,7 +3848,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 group-title="BACKUP" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/trans7.png",Trans 7 HD (*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live-b.cf.dmcdn.net/sec2(HKS1JZFEubEFC0go_oxsFa7B0RnMfrwZNlI6G_6AGqwYSngXAVtqnQhBdD99wwD0DOHO7k7DQFFQaYCsdGJwd1xnv7-zeG8tm0fkbyr2p79UJVYeLfnMpI8Ex9aCTGeq)/dm/3/x8qckyq/s/live-720.m3u8
+https://live-b.cf.dmcdn.net/sec2(qMZgLKF4b4kY047v2u_QhnEO25qNN4mQ60_MCEbELhV0VvZxlMe6AzTvFiv6Au-3zmh_aFznzGPkc5nqu1cbKnHebaFa2YdYsvQIjVL6AoRAhsHUlOk9Q6ZDAPMoZ8M6)/dm/3/x8qckyq/s/live-720.m3u8
 https://raw.githubusercontent.com/jawaionline/dailymotion_to_m3u/main/trans7.m3u
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sleng.m3u8
 #https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
