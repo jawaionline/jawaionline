@@ -4214,6 +4214,53 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm
+#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_1.png" group-title="BACKUP",Champions TV 1 (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
+#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_2.png" group-title="BACKUP",Champions TV 2 (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_3.png" group-title="BACKUP",Champions TV 3 (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_5.png" group-title="BACKUP",Champions TV 5 (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="BACKUP",Champions TV 6 (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/cctepe.png" group-title="CCTV Yogyakarta",Nol Km Jogja
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
