@@ -266,8 +266,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="MNCSports.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars.png",Sportstars (V+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -276,6 +276,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars2.png",Sportstars 2 (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -288,7 +289,8 @@ https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sportstar4" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars4.png",Sportstars 4 (V+)
@@ -3314,36 +3316,27 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 ########## LIVE EVENT ###########
 #################################
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
-#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
-
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
-#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://d37nf5n4fr3338.cloudfront.net/index_5.m3u8
-
-
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI-2 HD (R+)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI+ (720)
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://jangandicuribang.lestyhindi.workers.dev/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 https://rps.tipistream.my.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
+https://d37nf5n4fr3338.cloudfront.net/index_4.m3u8
 #https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 #https://midcache5.rctiplus.id/hdlive2/korselvsina20250404_720p/index.m3u8
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI-2 FHD (R+)
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI+ (1080)
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://jangandicuribang.lestyhindi.workers.dev/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 https://rps.tipistream.my.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+https://d37nf5n4fr3338.cloudfront.net/index_5.m3u8
 #https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 #https://midcache5.rctiplus.id/hdlive2/korselvsina20250404_1080p/index.m3u8
+
 
 
 
