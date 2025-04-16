@@ -3422,12 +3422,37 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="BACKUP",MDTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mdtv
 
 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="BACKUP",RTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rtv
 
 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="BACKUP",Kompas TV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=kompastv
 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="BACKUP",TVRI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=tvri
 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="BACKUP",SPOTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=spotv
+
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="BACKUP",SPOTV2 (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=spotv2
 
 
 
