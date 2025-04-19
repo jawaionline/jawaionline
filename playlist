@@ -4009,7 +4009,8 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=drm
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/18162_stream.mpd?hdnts=exp=1745045722~acl=/drm/dash/18162*~id=allUsers~hmac=a3cf7bc38a9f2b3cdf3bbfea5528eb6ea1b9cb3cc0e91c966a1a322fa51a0811
+#https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
 
 
