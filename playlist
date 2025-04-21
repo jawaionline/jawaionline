@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 20/04/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 21/04/2025"
 
 
 
@@ -214,21 +214,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 
 
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="Nasional",Garuda TV (*)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
-#https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/chunklist_w641677261.m3u8
-#https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
-#https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#https://stream.garuda.tv/live/garudatv/live.m3u8
-#https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
 
-
-#EXTINF:-1 group-title="Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV
-#https://tvstreamcast.com/indonesiana.m3u8
-#https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 
 #EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/btv.png" group-title="Nasional",BTV (V+)
@@ -3592,7 +3578,7 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdnts=exp=1745262438~acl=/drm/dash/205*~id=allUsers~hmac=160a2b3ed4543dcb9df3ecc84bd910a8b9fc3a9665ed60460b3092b831ab4ab8
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdnts=exp=1745262438~acl=/drm/dash/205*~id=allUsers~hmac=160a2b3ed4543dcb9df3ecc84bd910a8b9fc3a9665ed60460b3092b831ab4ab8
 #https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
@@ -4033,9 +4019,31 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=drm
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
-#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/18162_stream.mpd?hdnts=exp=1745045722~acl=/drm/dash/18162*~id=allUsers~hmac=a3cf7bc38a9f2b3cdf3bbfea5528eb6ea1b9cb3cc0e91c966a1a322fa51a0811
+#https://sweet-night-1d1d.worst.workers.dev/?id=18162&type=dash
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
+
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="Nasional",Garuda TV (*)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8|referrer=https://garuda.tv/
+#https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
+#https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/chunklist_w641677261.m3u8
+#https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+#https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+#https://stream.garuda.tv/live/garudatv/live.m3u8
+#https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
+
+
+#EXTINF:-1 group-title="Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV (*)
+https://tvstreamcast.com/indonesiana.m3u8
+#https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
