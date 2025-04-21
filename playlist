@@ -4023,7 +4023,7 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
 
 
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="Nasional",Garuda TV (*)
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (*)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4038,7 +4038,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8|referrer=https://garuda.
 #https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
 
 
-#EXTINF:-1 group-title="Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV (*)
+#EXTINF:-1 group-title="BACKUP" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV (*)
 https://tvstreamcast.com/indonesiana.m3u8
 #https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
