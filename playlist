@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 23/04/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 24/04/2025"
 
 
 
@@ -4187,13 +4187,7 @@ https://cnt1-streamer10.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/580-LOGO-l.png" group-title="BACKUP",RCTI TES (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0NTQyNzUxOCwiaWF0IjoxNzQ1NDI2OTE4LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiZmQ3OGUwMmQtNGJiZC00MGNkLThiYTAtMDI0NDVhMjRiN2NiIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMDAxIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.oasOkOli9Rg1A7d83Wkf0cgReH2YF4PoM4tvJEXEbkDfDpfRRAiGr0PfegGQ1xxuy7Rwh8z3oR4YI_zy9_ma2g"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="BACKUP",LIVE 4 V+
