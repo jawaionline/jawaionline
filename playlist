@@ -1,6 +1,10 @@
 #EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 24/04/2025"
 
+
+
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
+
+
 
 
 ########################
@@ -261,8 +265,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTINF:-1 group-title="Sports" tvg-id="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars2.png",Sportstars 2 (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=113&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
@@ -270,7 +275,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 group-title="Sports" tvg-id="MNCSports3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars3.png",Sportstars 3 (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=114&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=114
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
@@ -805,14 +810,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=119
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=119
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=119
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png",SPOTV 2 (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=120
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=120
+https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=120
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
 
 
@@ -3350,7 +3357,53 @@ https://d37nf5n4fr3338.cloudfront.net/index_5.m3u8
 
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",R+ LIVE
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1008
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="LIVE EVENT",V+ Sports
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1011
+https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" group-title="LIVE EVENT",V+ Live
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1002
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" group-title="LIVE EVENT",V+ Live 2
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1010
+https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-m.png" group-title="LIVE EVENT",V+ Live 3
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1012
+https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-m.png" group-title="LIVE EVENT",V+ Live 4
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1013
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-m.png" group-title="LIVE EVENT",V+ Live 5
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1014
+https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4181,31 +4234,6 @@ https://cnt1-streamer10.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 #https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
-
-
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="BACKUP",LIVE 4 V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://drm-vision2025.tvrusak1992.workers.dev/?no=1013&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="BACKUP",LIVE 5 V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://drm-vision2025.tvrusak1992.workers.dev/?no=1014&type=drm
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-
-
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="BACKUP",LIVE TEST V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0NTUwODQ2NSwiaWF0IjoxNzQ1NTA3ODY1LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMmY2ODZlN2MtNGQxOC00NjU0LWI2ZmYtZjk4ZTRhNDI2MmMyIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTI2Iiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.1ScE6_RbvYtWIEzhRQkrv0ens5EU_bKcfhZx_3l3EOFbHMewm1Tz-hYQB9hPDdFT0HEaI0r_R7lxgtbvojy5Zg
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
 
