@@ -809,7 +809,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png",SPOTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 #https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=119
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
@@ -817,7 +817,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 #EXTINF:-1 group-title="Sports" tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png",SPOTV 2 (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=120
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
@@ -4292,7 +4292,7 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=202
 #EXTINF:0 tvg-id="iNews.id" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png" group-title="BACKUP",Drama World (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=204
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=204&type=drm
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=204
 
 
