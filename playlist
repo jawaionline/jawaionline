@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 25/04/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 24/04/2025"
 
 
 
@@ -226,23 +226,23 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 ######## SPORTS ########
 ########################
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="Sports" tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png",SPOTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=drm
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png" group-title="Sports",SPOTV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
-#https://luck.openwindows038.workers.dev/play.mpd?id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=119
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="Sports" tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png",SPOTV 2 (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=drm
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png" group-title="Sports",SPOTV 2 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
-#https://luck.openwindows038.workers.dev/play.mpd?id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
+https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=120
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
 
 
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/soccer-channel.png" group-title="Sports",Soccer Channel (V+)
@@ -263,7 +263,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars2.png",Sportstars 2 (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
@@ -725,7 +725,23 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=drm
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png" group-title="Sports",SPOTV (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
+#https://luck.openwindows038.workers.dev/play.mpd?id=17139&type=dash
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=drm
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png" group-title="Sports",SPOTV 2 (Vid)
+https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
+#https://luck.openwindows038.workers.dev/play.mpd?id=17140&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
@@ -808,23 +824,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 group-title="Sports" tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png",SPOTV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-#https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=119
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png",SPOTV 2 (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=120
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
 
 
 
@@ -4280,7 +4280,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png" group-title="BACKUP",RCTI World (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=201
@@ -4290,7 +4290,7 @@ https://d1ilavksxjkvtz.cloudfront.net/out/v1/c0131a4c400d429fb870ed033ec90e8e/in
 
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-m.png" group-title="BACKUP",MNCTV World (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=203
@@ -4298,7 +4298,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/229e5579891148208031e5755743e00a/index
 #https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=203
 
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png" group-title="BACKUP",GTV World (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=202
@@ -4307,7 +4307,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c815e827dfb640619d594dd6f5aee86d/index
 
 
 #EXTINF:0 tvg-id="iNews.id" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png" group-title="BACKUP",Drama World (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=204
