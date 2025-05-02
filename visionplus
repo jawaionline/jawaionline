@@ -1,0 +1,217 @@
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1
+https://terabit.web.id/media.mpd?id=1&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",MNCTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=2
+https://terabit.web.id/media.mpd?id=2&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=3
+https://terabit.web.id/media.mpd?id=3&type=dash
+
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",iNEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
+https://terabit.web.id/media.mpd?id=4&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",SindoNews TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=5
+https://terabit.web.id/media.mpd?id=5&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TransTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=6
+https://terabit.web.id/media.mpd?id=6&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Trans7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=7
+https://terabit.web.id/media.mpd?id=7&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",ANTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=10
+https://terabit.web.id/media.mpd?id=10&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=11
+https://terabit.web.id/media.mpd?id=11&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",tvOne
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=12
+https://terabit.web.id/media.mpd?id=12&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",KompasTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=13
+https://terabit.web.id/media.mpd?id=13&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=14
+https://terabit.web.id/media.mpd?id=14&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",BTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=15
+https://terabit.web.id/media.mpd?id=15&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TVRI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=16
+https://terabit.web.id/media.mpd?id=16&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",SEA Today
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=17
+https://terabit.web.id/media.mpd?id=17&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",DAAI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=18
+https://terabit.web.id/media.mpd?id=18&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",MDTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=23
+https://terabit.web.id/media.mpd?id=23&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",JTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=24
+https://terabit.web.id/media.mpd?id=24&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",JAKTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=25
+https://terabit.web.id/media.mpd?id=25&type=dash
+
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Bali TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=26
+https://terabit.web.id/media.mpd?id=26&type=dash
+
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Bandung TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=27
+https://terabit.web.id/media.mpd?id=27&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TV9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=28
+https://terabit.web.id/media.mpd?id=28&type=dash
+
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Tawaf TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=29
+https://terabit.web.id/media.mpd?id=29&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TV MU
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=30
+https://terabit.web.id/media.mpd?id=30&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Originals
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=36
+https://terabit.web.id/media.mpd?id=36&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Buddy Star
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=37
+https://terabit.web.id/media.mpd?id=37&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",UNIQUES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=38
+https://terabit.web.id/media.mpd?id=38&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Superrix
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=39
+https://terabit.web.id/media.mpd?id=39&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",CINEEDGE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=40
+https://terabit.web.id/media.mpd?id=40&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Thrill
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=41
+https://terabit.web.id/media.mpd?id=41&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",HITS Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=42
+https://terabit.web.id/media.mpd?id=42&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Celestial Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=44
+https://terabit.web.id/media.mpd?id=44&type=dash
+
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",CCM
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=45
+https://terabit.web.id/media.mpd?id=45&type=dash
