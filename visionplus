@@ -5,12 +5,14 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=1
 https://terabit.web.id/media.mpd?id=1&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=2
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=2
 https://terabit.web.id/media.mpd?id=2&type=dash
 
 
@@ -18,6 +20,7 @@ https://terabit.web.id/media.mpd?id=2&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=3
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=3
 https://terabit.web.id/media.mpd?id=3&type=dash
 
 
@@ -26,6 +29,7 @@ https://terabit.web.id/media.mpd?id=3&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=4
 https://terabit.web.id/media.mpd?id=4&type=dash
 
 
@@ -33,12 +37,14 @@ https://terabit.web.id/media.mpd?id=4&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=5
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=5
 https://terabit.web.id/media.mpd?id=5&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TransTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=6
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=6
 https://terabit.web.id/media.mpd?id=6&type=dash
 
 
@@ -46,6 +52,7 @@ https://terabit.web.id/media.mpd?id=6&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=7
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=7
 https://terabit.web.id/media.mpd?id=7&type=dash
 
 
@@ -53,12 +60,14 @@ https://terabit.web.id/media.mpd?id=7&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=10
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=10
 https://terabit.web.id/media.mpd?id=10&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=11
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=11
 https://terabit.web.id/media.mpd?id=11&type=dash
 
 
@@ -66,6 +75,7 @@ https://terabit.web.id/media.mpd?id=11&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=12
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=12
 https://terabit.web.id/media.mpd?id=12&type=dash
 
 
@@ -73,24 +83,28 @@ https://terabit.web.id/media.mpd?id=12&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=13
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=13
 https://terabit.web.id/media.mpd?id=13&type=dash
 
-#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",RTV
+#EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=14
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=14
 https://terabit.web.id/media.mpd?id=14&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",BTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=15
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=15
 https://terabit.web.id/media.mpd?id=15&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TVRI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=16
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=16
 https://terabit.web.id/media.mpd?id=16&type=dash
 
 
@@ -98,6 +112,7 @@ https://terabit.web.id/media.mpd?id=16&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=17
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=17
 https://terabit.web.id/media.mpd?id=17&type=dash
 
 
@@ -105,6 +120,7 @@ https://terabit.web.id/media.mpd?id=17&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=18
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=18
 https://terabit.web.id/media.mpd?id=18&type=dash
 
 
@@ -112,18 +128,21 @@ https://terabit.web.id/media.mpd?id=18&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=23
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=23
 https://terabit.web.id/media.mpd?id=23&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",JTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=24
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=24
 https://terabit.web.id/media.mpd?id=24&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",JAKTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=25
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=25
 https://terabit.web.id/media.mpd?id=25&type=dash
 
 
@@ -132,6 +151,7 @@ https://terabit.web.id/media.mpd?id=25&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=26
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=26
 https://terabit.web.id/media.mpd?id=26&type=dash
 
 
@@ -140,6 +160,7 @@ https://terabit.web.id/media.mpd?id=26&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=27
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=27
 https://terabit.web.id/media.mpd?id=27&type=dash
 
 
@@ -147,6 +168,7 @@ https://terabit.web.id/media.mpd?id=27&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=28
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=28
 https://terabit.web.id/media.mpd?id=28&type=dash
 
 
@@ -154,64 +176,75 @@ https://terabit.web.id/media.mpd?id=28&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=29
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=29
 https://terabit.web.id/media.mpd?id=29&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",TV MU
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=30
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=30
 https://terabit.web.id/media.mpd?id=30&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Originals
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=36
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=36
 https://terabit.web.id/media.mpd?id=36&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Buddy Star
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=37
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=37
 https://terabit.web.id/media.mpd?id=37&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",UNIQUES
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=38
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=38
 https://terabit.web.id/media.mpd?id=38&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Superrix
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=39
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=39
 https://terabit.web.id/media.mpd?id=39&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",CINEEDGE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=40
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=40
 https://terabit.web.id/media.mpd?id=40&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Thrill
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=41
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=41
 https://terabit.web.id/media.mpd?id=41&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",HITS Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=42
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=42
 https://terabit.web.id/media.mpd?id=42&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",Celestial Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=44
+\https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=44
 https://terabit.web.id/media.mpd?id=44&type=dash
 
 #EXTINF:-1 group-title="Vision+" tvg-id="" tvg-logo="",CCM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=45
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=45
 https://terabit.web.id/media.mpd?id=45&type=dash
