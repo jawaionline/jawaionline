@@ -3893,9 +3893,7 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18162&type=drm
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (Vid)
-https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=18162&type=dash
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/garudatv
+https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (*)
