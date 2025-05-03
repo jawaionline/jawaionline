@@ -349,13 +349,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 #EXTINF:-1 tvg-id="beINSports4" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/330px-Logo_bein_sports_4.png", beIN Sports 4 ID (V+)
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|Referer=https://www.visionplus.id
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 #EXTINF:-1 tvg-id="beINSports5" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1FrSprMIWqh6t8qvsdBWXvW_Ic5mdz6O6w&s", beIN Sports 5 ID (V+)
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN01/sa_dash/BEIN01.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN02/sa_dash/BEIN02.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN03/sa_dash/BEIN03.mpd
@@ -713,9 +713,9 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18189&type=dash
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18189&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18190&type=drm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/champions-golf-2.png" group-title="Sports",Champions Golf 2 (Vid)
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18189&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18190&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
@@ -3905,6 +3905,28 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18162&type=drm
 https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
+
+
+
+#EXTINF:-1 group-title="BACKUP" tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",Trans TV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=733&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
+
+
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="BACKUP",Trans 7 (Vid)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=734&type=drm
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=734&type=dash
+
+
 
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (*)
