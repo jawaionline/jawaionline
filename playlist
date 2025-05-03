@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 02/05/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 04/05/2025"
 
 
 
@@ -632,13 +632,14 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9353&type=drm
+#EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="Sports",Premier League TV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm
-#EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="Sports",Premier League TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9353&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
 
@@ -3886,13 +3887,12 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18162&type=drm
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (Vid)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18162&type=drm
 https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 
 
