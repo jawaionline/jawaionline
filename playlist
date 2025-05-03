@@ -642,56 +642,58 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9353&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17938&type=drm
+#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_1.png" group-title="Sports",Champions TV 1 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm
-#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_1.png" group-title="Sports",Champions TV 1 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17938&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
+
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6686&type=drm
+#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_2.png" group-title="Sports",Champions TV 2 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
-#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_2.png" group-title="Sports",Champions TV 2 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6686&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=6786&type=drm
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_3.png" group-title="Sports",Champions TV 3 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_3.png" group-title="Sports",Champions TV 3 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6786&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
 
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9182&type=drm
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_5.png" group-title="Sports",Champions TV 5 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm
-#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_5.png" group-title="Sports",Champions TV 5 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9183&type=drm
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="Sports",Champions TV 6 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm
-#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="Sports",Champions TV 6 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9183&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/champions-golf-1.png" group-title="Sports",Champions Golf 1 (Vid)
@@ -700,7 +702,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac331ce257155a0963c477ff065fa693:429963f60aa0157a87b67beac01b538b
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18189&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18189&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18189&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 #https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18189
 
@@ -710,29 +713,34 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18189&type=dash
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18189&type=drm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/champions-golf-2.png" group-title="Sports",Champions Golf 2 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18189&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
 
+
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17139&type=drm
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png" group-title="Sports",SPOTV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=drm
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png" group-title="Sports",SPOTV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17139&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17139&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=17139&type=dash
 
+
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=17140&type=drm
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png" group-title="Sports",SPOTV 2 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=drm
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png" group-title="Sports",SPOTV 2 (Vid)
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=17140&type=dash
 
@@ -740,7 +748,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198771-LOGO-l.png" group-title="Sports",beINSports1 ID (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17884&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17884&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17884&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=17884&type=dash
 
@@ -749,7 +758,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198772-LOGO-l.png" group-title="Sports",beINSports2 ID (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17875&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17875&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17875&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=17875&type=dash
 
@@ -758,7 +768,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
 #EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198770-LOGO-l.png" group-title="Sports",beINSports3 ID (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6317&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=6317&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6317&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 #https://luck.openwindows038.workers.dev/play.mpd?id=6317&type=dash
 
