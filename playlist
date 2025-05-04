@@ -3917,7 +3917,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 
 
-#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="BACKUP",Trans 7 (Vid)
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="BACKUP",Trans7 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3927,6 +3927,13 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=734&type=dash
 
 
+#EXTINF:-1 group-title="BACKUP" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",Jawapos TV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=9714&type=drm
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=9714&type=dash
 
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="BACKUP",Garuda TV (*)
