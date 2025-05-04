@@ -3908,7 +3908,6 @@ https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18162&type=drm
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18162/master.m3u8?hdnts=exp=1746328062~acl=/live/18162/master.m3u8!/hls-p/ingest_18162*/*!/hls-b/ingest_18162*/*~id=177314240~hmac=533791e9aede810460f8839c6953c5fa763ab2ccc386fc386aa0fcadf845c6c0
 https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 
 
@@ -3919,7 +3918,6 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=733&type=drm
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/733_stream.mpd?hdnts=exp=1746328319~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~id=167538458~hmac=d5329195333ac6ce35766a37eb35adb1d4890497c1a878c3951f243a7b70024c
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 
 
@@ -3930,7 +3928,6 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=734&type=drm
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/734_stream.mpd?hdnts=exp=1746328267~acl=/vp9/734_stream.mpd!/vp9/734/*!/vp9/*/734_stream.mpd!/vp9/*/734/*~id=167538458~hmac=ebdffbc124c87930bc98a284ddccbb1cb0c384943eb8cfdb45dccf0220cd7a38
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=734&type=dash
 
 
@@ -4493,5 +4490,4 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
-
 
