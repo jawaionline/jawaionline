@@ -3185,7 +3185,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18249&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/C_r51yhbpaxi70zC9dGrQOjbywc=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-3494a8.png",Proliga 2025 (Vid)
