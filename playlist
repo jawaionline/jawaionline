@@ -3919,6 +3919,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=733&type=drm
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/733_stream.mpd?hdnts=exp=1746328319~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~id=167538458~hmac=d5329195333ac6ce35766a37eb35adb1d4890497c1a878c3951f243a7b70024c
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 
 
@@ -3929,6 +3930,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=734&type=drm
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/734_stream.mpd?hdnts=exp=1746328267~acl=/vp9/734_stream.mpd!/vp9/734/*!/vp9/*/734_stream.mpd!/vp9/*/734/*~id=167538458~hmac=ebdffbc124c87930bc98a284ddccbb1cb0c384943eb8cfdb45dccf0220cd7a38
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=734&type=dash
 
 
