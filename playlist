@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 04/05/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 10/05/2025"
 
 
 
@@ -131,9 +131,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=777&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=777&type=drm
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/metrotv.png" group-title="Nasional",Metro TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=777&type=hls
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=777&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=777&type=hls
 
 
 
@@ -149,9 +150,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=8237&type=drm
 #EXTINF:-1 group-title="Nasional" tvg-id="Mentari TV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/mentaritv.png",Mentari TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=8237&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
 
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/moji.png",Moji HD (D)
@@ -167,8 +169,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=7432&type=drm
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/nusantaratv.png" group-title="Nasional" tvg-logo="",Nusantara TV (Vid)
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=7432&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=7432&type=hls
 
 
@@ -1691,12 +1694,13 @@ http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 #EXTINF:0 tvg-id="Moonbug" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moonbug_Entertainment_logo.svg/2560px-Moonbug_Entertainment_logo.svg.png" group-title="Kids and Animation",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Kids and Animation",DreamWorks (Vision+)
+#EXTINF:0 tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Kids and Animation",DreamWorks (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=67&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-#http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
+http://202.147.193.244/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
 
 
 #EXTINF:-1 tvg-name="AniplusAsia.sg" tvg-logo="https://logo.iptveditor.com/aniplus.png" group-title="Kids and Animation",Aniplus (D)
@@ -1923,12 +1927,12 @@ http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:0 CUID="701" tvg-name="Rock Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png" group-title="Movies",Rock Action (Vision+)
+#EXTINF:0 CUID="701" tvg-name="Rock Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png" group-title="Movies",Rock Action (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=93&type=drm
-https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-#http://202.147.193.244/live/eds/Rockaction/sa_dash/Rockaction.mpd
+http://202.147.193.244/live/eds/Rockaction/sa_dash/Rockaction.mpd
+#https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 #http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-name="Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies",Rock Entertainment (D)
@@ -3908,9 +3912,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=874&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=874&type=drm
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/kompastv.png" group-title="BACKUP",Kompas TV (Vid)
-https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=874&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=874&type=dash
 
 
 #EXTINF:-1 group-title="BACKUP" tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/132365-LOGO-l.png",CNBC Indonesia (IH)
@@ -3960,7 +3965,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=733&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=733&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 
 
@@ -3969,7 +3974,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=734&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=734&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=734&type=dash
 
 
