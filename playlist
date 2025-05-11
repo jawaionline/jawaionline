@@ -216,7 +216,7 @@ http://202.147.193.244/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0Njk1NzM5NiwiaWF0IjoxNzQ2OTU2Nzk2LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiNTU4OTUyNzMtM2M0Ny00ZTRhLWI4ZDEtYThjNWU3YzZkNmQ4IiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTE5Iiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.YuVtnozWUv8KkTE_rcqcQ4wLZnt4rmvyu09wVStKpjo9P9Eu6zPXy3y5AMvYrh5RdqA0g0Twhm3l9AlLvk0hfg
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 #https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=119
 #http://202.147.193.244/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
@@ -225,7 +225,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0Njk1NzYzMSwiaWF0IjoxNzQ2OTU3MDMxLCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiM2RkMTA3MTktMzI2Yi00ZWRkLThlOGEtMmU0YTE2Nzk3ZGNiIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTIwIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.Bo_kgbHZChni6jQF24_YXMxkNfow6VlJeSFAaN6kyD21Psidkp2PWgK0SqYjOiV0i6EClwBYhF9Zii4rSdDuEA
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=120
 #http://202.147.193.244/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
