@@ -4339,7 +4339,7 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 ########################
 
 
-#EXTINF:-1 group-title="Sports (A10)" tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png",SPOTV (V+)
+#EXTINF:-1 group-title="Sports (A10)" tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/656-LOGO-l.png",SPOTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4347,7 +4347,7 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
-#EXTINF:-1 group-title="Sports (A10)" tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png",SPOTV 2 (V+)
+#EXTINF:-1 group-title="Sports (A10)" tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/657-LOGO-l.png",SPOTV 2 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4355,14 +4355,14 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/soccer-channel.png" group-title="Sports (A10)",Soccer Channel (V+)
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/655-LOGO-l.png" group-title="Sports (A10)",Soccer Channel (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
-#EXTINF:-1 group-title="Sports (A10)" tvg-id="MNCSports.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars.png",Sportstars (V+)
+#EXTINF:-1 group-title="Sports (A10)" tvg-id="MNCSports.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/652-LOGO-l.png",Sportstars (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4372,7 +4372,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 
 
 
-#EXTINF:-1 group-title="Sports (A10)" tvg-id="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/sportstars2.png",Sportstars 2 (V+)
+#EXTINF:-1 group-title="Sports (A10)" tvg-id="MNCSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/653-LOGO-l.png",Sportstars 2 (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -4409,7 +4409,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="Sports (A10)",V+ Sports
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/124883-LOGO-l.png" group-title="Sports (A10)",V+ Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4417,7 +4417,7 @@ https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" group-title="Sports (A10)",V+ Live
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/92444-LOGO-l.png" group-title="Sports (A10)",V+ Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4425,7 +4425,7 @@ https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" group-title="Sports (A10)",V+ Live 2
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/112710-LOGO-l.png" group-title="Sports (A10)",V+ Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4433,7 +4433,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-m.png" group-title="Sports (A10)",V+ Live 3
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/129698-LOGO-l.png" group-title="Sports (A10)",V+ Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4442,7 +4442,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-m.png" group-title="Sports (A10)",V+ Live 4
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/128509-LOGO-l.png" group-title="Sports (A10)",V+ Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4450,7 +4450,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-m.png" group-title="Sports (A10)",V+ Live 5
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/191287-LOGO-l.png" group-title="Sports (A10)",V+ Live 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4508,7 +4508,7 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17141&type=dash
 ########################
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10" group-title="Nasional (A10)",INDOSIAR (TV)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indosiar.png" group-title="Nasional (A10)",INDOSIAR (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4525,16 +4525,16 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="Nasional (A10)",ANTV (TV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/583-LOGO-l.png" group-title="Nasional (A10)",iNewsTV (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
+https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s" group-title="Nasional (A10)",SCTV (TV)
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="Nasional (A10)",SCTV (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4560,7 +4560,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="Nasional (A10)",Trans TV (TV)
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/585-LOGO-l.png" group-title="Nasional (A10)",Trans TV (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4568,7 +4568,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title="Nasional (A10)",Trans 7 (TV)
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/586-LOGO-l.png" group-title="Nasional (A10)",Trans 7 (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4578,7 +4578,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 
 
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/230/2024/11/14/New-Project-73-2968492983.jpg" group-title="Nasional (A10)",MDTV (TV)
+#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/320334-LOGO-l.png" group-title="Nasional (A10)",MDTV (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4587,18 +4587,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 
-
-#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/583-LOGO-l.png" group-title="Nasional (A10)",iNewsTV (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
-https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg" group-title="Nasional (A10)",RTV (TV)
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/588-LOGO-l.png" group-title="Nasional (A10)",RTV (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4623,8 +4612,82 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8|referrer=https://garuda.
 #https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GarudaTV.m3u8
 
 
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/589-LOGO-l.png" group-title="Nasional (A10)",TVOne (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
-#EXTINF:-1 group-title="Nasional (A10)" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNCTV (TV)
+
+
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/590-LOGO-l.png" group-title="Nasional (A10)",Kompas TV (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+
+#EXTINF:0 tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/593-LOGO-m.png" group-title="Nasional (A10)",TVRI (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
+
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/" group-title="Nasional (A10)",Metro TV (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
+
+#EXTINF:0 tvg-id="CNNIndonesia.id" tvg-logo="https://logo.iptveditor.com/cnnindonesia.png" group-title="Nasional (A10)",CNN Indonesia (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+
+#EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/132365-LOGO-l.png" group-title="Nasional (A10)",CNBC Indonesia (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
+
+
+#EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/btv.png" group-title="Nasional (A10)",BTV (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg" group-title="Nasional (A10)",Nusantara (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+
+#EXTINF:-1 group-title="Nasional (A10)" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV (*)
+https://tvstreamcast.com/indonesiana.m3u8
+#https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/581-LOGO-l.png" group-title="Nasional (A10)",MNCTV (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4633,8 +4696,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8|referrer=https://garuda.
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" group-title="Nasional (A10)",RCTI (TV)
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/580-LOGO-l.png" group-title="Nasional (A10)",RCTI (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4643,7 +4705,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 
-#EXTINF:-1 group-title="Nasional (A10)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul436uCmHMIpge6PzLn_kyCWYGBs9p2u5CGCrSRBkuPCvIh4QRyxdUECP&s=10",GTV (TV)
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/582-LOGO-l.png" group-title="Nasional (A10)",GTV (TV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4655,7 +4717,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 
 
 
-
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/garudatv.png" group-title="Nasional (A10)",Garuda TV (TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 
 
@@ -4670,7 +4738,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 
 
 
-#EXTINF:-1 group-title="Nasional (A10)" tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",Trans TV (Vid)
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/585-LOGO-l.png" group-title="Nasional (A10)",Trans TV (Vid)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4679,7 +4747,7 @@ https://tvkitastream.my.id/vidio/hls-tvkita.php?id=18162&type=dash
 https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=733&type=dash
 
 
-#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Nasional (A10)",Trans7 (Vid)
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/586-LOGO-l.png" group-title="Nasional (A10)",Trans7 (Vid)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4691,10 +4759,6 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=734&type=dash
 
 
 
-
-#EXTINF:-1 group-title="Nasional (A10)" tvg-id="IndonesianaTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indonesianatv.png",Indonesiana TV (*)
-https://tvstreamcast.com/indonesiana.m3u8
-#https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 
 
@@ -4726,7 +4790,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c815e827dfb640619d594dd6f5aee86d/index
 #https://tvkitastream.my.id/rctiplus/mpd-vip.php/widevine?id=202
 
 
-#EXTINF:0 tvg-id="iNews.id" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png" group-title="Nasional (A10)",Drama World (V+)
+#EXTINF:0 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png" group-title="Nasional (A10)",Drama World (V+)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
