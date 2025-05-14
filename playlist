@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 13/05/2025"
+#EXTM3U billed-msg="TIDAK UNTUK DIPERJUALBELIKAN - (https://jawaionline.eu.org) | Updated 14/05/2025"
 
 
 
@@ -4401,6 +4401,120 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198771-LOGO-l.png" group-title="Sports (A10)",beINSports1 ID (Vid)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17884&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198772-LOGO-l.png" group-title="Sports (A10)",beINSports2 ID (Vid)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17875&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/198770-LOGO-l.png" group-title="Sports (A10)",beINSports3 ID (Vid)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=6317&type=dash
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=9353
+#EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="Sports (A10)",Premier League TV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=9353&type=dash
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17938
+#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_1.png" group-title="Sports (A10)",Champions TV 1 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17938&type=dash
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=6686&type=dash
+#EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_2.png" group-title="Sports (A10)",Champions TV 2 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=6686&type=dash
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=6786&type=dash
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_3.png" group-title="Sports (A10)",Champions TV 3 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=6786&type=dash
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=9182
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_5.png" group-title="Sports (A10)",Champions TV 5 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=9182&type=dash
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=9183
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_6.png" group-title="Sports (A10)",Champions TV 6 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=9183&type=dash
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/champions-golf-1.png" group-title="Sports (A10)",Champions Golf 1 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac331ce257155a0963c477ff065fa693:429963f60aa0157a87b67beac01b538b
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=18189&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php/?id=18190&type=drm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/champions-golf-2.png" group-title="Sports (A10)",Champions Golf 2 (Vid)
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=18190&type=dash
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php/?id=17139&type=drm
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv.png" group-title="Sports (A10)",SPOTV (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17139&type=dash
+
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php/?id=17140&type=drm
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/spotv2.png" group-title="Sports (A10)",SPOTV 2 (Vid)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17140&type=dash
+
+
+
+
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="Sports (A10)",R+ LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -4464,7 +4578,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vidio.bintangstream513.workers.dev/?id=18249&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18249&type=drm
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=18249&type=dash
 
 #EXTINF:-1 group-title="Sports (A10)" tvg-logo="https://thumbor.prod.vidiocdn.com/C_r51yhbpaxi70zC9dGrQOjbywc=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-3494a8.png",Proliga 2025 (Vid)
@@ -4499,6 +4613,43 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17141&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17141&type=dash
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Sports (A10)",00.BORNEO FC vs AREMA FC - Final Piala Presiden 2024 (Live Only)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17584&type=dash
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Sports (A10)",00.Thailand vs Indonesia (FINAL)- ASEAN U19 Boys Championship 2024 (Live Only)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17585&type=dash
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Sports (A10)",00.Persib Bandung vs Persis Solo - Piala Presiden 2024 (Live Only)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+https://tvkitastream.my.id/vidio/dash-tvkita.php/?id=17609&type=dash
+
+
+
+
+
+
+
 
 
 
