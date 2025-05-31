@@ -27,7 +27,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18388&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/VFFLCQYCgNIH35PEiTWZGdWA2Zs=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18388/fifa-women-s-matchday-e0f147.jpg" group-title="Vidio",FIFA Women's Matchday_18388&
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/VFFLCQYCgNIH35PEiTWZGdWA2Zs=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18388/fifa-women-s-matchday-e0f147.jpg" group-title="Vidio",FIFA Women's Matchday_18388
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -44,7 +44,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18820&type=dash
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17883&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_18820
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_17883
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
