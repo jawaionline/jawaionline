@@ -45,6 +45,15 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
 
 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17141&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/_c91wA-_uxkkxbfGOf8vs_WrAsY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/450/mxgp-14c967.png" group-title="Vidio",MXGP_17141
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17141&type=dash
+
+
 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18388&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/VFFLCQYCgNIH35PEiTWZGdWA2Zs=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18388/fifa-women-s-matchday-e0f147.jpg" group-title="Vidio",FIFA Women's Matchday_18388
