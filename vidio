@@ -45,6 +45,15 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
 
 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18913&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",AVC Mens Volleyball_18913
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
+
+
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17141&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/_c91wA-_uxkkxbfGOf8vs_WrAsY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/450/mxgp-14c967.png" group-title="Vidio",MXGP_17141
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
