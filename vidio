@@ -29,6 +29,16 @@ https://colloriptvpro.my.id/vid/pidio/?id=18252&type=dash
 
 
 
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18253&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18253
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://colloriptvpro.my.id/vid/pidio/?id=18253&type=dash
+
+
+
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18851&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",VNL_18851
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
