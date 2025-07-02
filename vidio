@@ -1,84 +1,93 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml" refresh="1440" max-conn="1" refresh="24"
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18249&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18249&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18249
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18249&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18250&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18250&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18250
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18250&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18252&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18250&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18252
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18250&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
 
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18851&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18851&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",VNL_18851
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18851&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
 
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18853&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18853&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",VNL_18853
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18853&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18913&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18913&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",AVC Mens Volleyball_18913
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://colloriptvpro.my.id/vid/pidio/?id=18913&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17141&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=17141&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/_c91wA-_uxkkxbfGOf8vs_WrAsY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/450/mxgp-14c967.png" group-title="Vidio",MXGP_17141
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17141&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=17141&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17141&type=dash
 
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18388&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18388&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/VFFLCQYCgNIH35PEiTWZGdWA2Zs=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18388/fifa-women-s-matchday-e0f147.jpg" group-title="Vidio",FIFA Women's Matchday_18388
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18388&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18388&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18388&type=dash
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18820&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18820&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Asean U23_18820
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18820&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=18820&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18820&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=18994&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Indosiar Live_18994
@@ -89,11 +98,12 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18820&type=dash
 https://colloriptvpro.my.id/vid/pidio/?id=18994&type=dash
 
 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17883&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=17883&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_17883
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17883&type=dash
+https://colloriptvpro.my.id/vid/pidio/?id=17883&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17883&type=dash
