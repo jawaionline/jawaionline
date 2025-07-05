@@ -117,3 +117,14 @@ https://colloriptvpro.my.id/vid/pidio/?id=18994&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://colloriptvpro.my.id/vid/pidio/?id=17883&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17883&type=dash
+
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/pidio/?id=19035&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/NhE0hYZ3hxtXMTt6reudMfPTxzo=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/328/piala-presiden-2025-190354.png" group-title="Vidio",/Piala Presiden 2025_19035
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://colloriptvpro.my.id/vid/pidio/?id=19035&type=dash
+
+
