@@ -118,12 +118,39 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18994&type=dash
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17883&type=dash
 
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=19035&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/NhE0hYZ3hxtXMTt6reudMfPTxzo=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/328/piala-presiden-2025-190354.png" group-title="Vidio",Piala Presiden 2025_19035
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=19062&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/o2Dqb79Lqm2zbP1t6XEuUCh0U9g=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19062/asean-u-23-championship-mandiri-cup-cover-1b2230.jpg" group-title="Vidio",ASEAN U-23 Championship Mandiri Cup_19062
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://parlay12.serv00.net/pidio/index.mpd?id=19035&type=dash
+https://parlay12.serv00.net/pidio/index.mpd?id=19062&type=dash
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Indosiar Live_18994 A
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://parlay12.serv00.net/pidio/index.mpd?id=18994&type=hls
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_17883 A
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=hls
+
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18994&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Indosiar Live_18994 B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://parlay12.serv00.net/pidio/index.mpd?id=18994&type=hls
+
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=17883&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_17883 B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=hls
 
