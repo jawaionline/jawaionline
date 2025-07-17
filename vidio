@@ -154,3 +154,12 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18994&type=hls
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=hls
 
+
+#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=19062&type=drm
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/o2Dqb79Lqm2zbP1t6XEuUCh0U9g=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19062/asean-u-23-championship-mandiri-cup-cover-1b2230.jpg" group-title="Vidio",ASEAN U-23 Championship Mandiri Cup_19062
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://parlay12.serv00.net/pidio/index.mpd?id=19062&type=dash
+
