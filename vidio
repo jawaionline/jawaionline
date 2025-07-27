@@ -1,46 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml" refresh="1440" max-conn="1" refresh="24"
 
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18249&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18249
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://parlay12.serv00.net/pidio/index.mpd?id=18249&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
-
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18250&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18250
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://parlay12.serv00.net/pidio/index.mpd?id=18250&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
-
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18252&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18252
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://parlay12.serv00.net/pidio/index.mpd?id=18252&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
-
-
-
-#KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18253&type=drm
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="Vidio",BWF_18253
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://parlay12.serv00.net/pidio/index.mpd?id=18253&type=dash
-
-
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18851&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",VNL_18851
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -52,6 +15,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18851&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18853&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",VNL_18853
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,6 +26,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18853&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18913&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png" group-title="Vidio",AVC Mens Volleyball_18913
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -72,6 +37,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=17141&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/_c91wA-_uxkkxbfGOf8vs_WrAsY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/450/mxgp-14c967.png" group-title="Vidio",MXGP_17141
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -83,6 +49,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17141&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18388&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/VFFLCQYCgNIH35PEiTWZGdWA2Zs=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18388/fifa-women-s-matchday-e0f147.jpg" group-title="Vidio",FIFA Women's Matchday_18388
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -92,6 +59,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18388&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18820&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Asean U23_18820
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -101,6 +69,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18820&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18994&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Indosiar Live_18994
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -120,6 +89,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=19062&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/o2Dqb79Lqm2zbP1t6XEuUCh0U9g=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19062/asean-u-23-championship-mandiri-cup-cover-1b2230.jpg" group-title="Vidio",ASEAN U-23 Championship Mandiri Cup_19062
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -128,6 +98,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=19062&type=dash
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Indosiar Live_18994 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -135,6 +106,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18994&type=hls
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_17883 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -142,6 +114,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=hls
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=18994&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",Indosiar Live_18994 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -149,6 +122,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=18994&type=hls
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=17883&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/jwb8oTlMReuATpmgjkjlashb3fg=/filters:quality(70)/vidio-media-production/uploads/image/source/81/edf05a.png" group-title="Vidio",SCTV Live_17883 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -157,6 +131,7 @@ https://parlay12.serv00.net/pidio/index.mpd?id=17883&type=hls
 
 #KODIPROP:inputstream.adaptive.license_key=https://parlay12.serv00.net/pidio/index.m3u8?id=19062&type=drm
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/o2Dqb79Lqm2zbP1t6XEuUCh0U9g=/1660x920/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19062/asean-u-23-championship-mandiri-cup-cover-1b2230.jpg" group-title="Vidio",ASEAN U-23 Championship Mandiri Cup_19062
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
