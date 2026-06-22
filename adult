@@ -1,0 +1,131 @@
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/Aqfad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/warningfm/v2/main/indihometv.com.xml,https://raw.githubusercontent.com/warningfm/v2/main/vidio.com.xml,https://tvxray-cdn2.eu-central-amazonaws.com/xmltv.php?username=freebasic&password=m%40laysia887&prev_days=0&next_days=2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",Memukau
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",Pandora
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",Amazing tv
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",松1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",松2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",松3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Playboy-Logo-PNG-Photo-Image.png" group-title="ADULT",Playboy R
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",BrazzersTV 18+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",hardcore1
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",interactial
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",eroxx HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png",Babes 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",MEN'S NEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg" group-title="ADULT",Miami TV [a]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg" group-title="ADULT",Miami TV [b]
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/8c8ca0e4-d4b1-42c7-bd6f-0ab7d3243b68/0.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg" group-title="ADULT",Miami TV [c]
+https://47a5d1da46b54926a272de4c51610d1e.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-JennyLive/3146070b-2bad-4c9f-b35c-819f79c1ccf6/0.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Silja Live
+https://59ec5453559f0.streamlock.net/seljalive/_definst_/smil:VIVALIVE/chunklist_w1946762702_b1896000.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Live Cams
+http://cdn.redtraffic.net/livecams.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",MILF
+http://cdn.redtraffic.net/milf.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Big Dick
+http://cdn.redtraffic.net/bigdick.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Big Tits
+http://cdn.redtraffic.net/bigtits.m3u8
+
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Fetish
+http://cdn.redtraffic.net/fetish.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Pornstar
+http://cdn.redtraffic.net/pornstar.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Big Ass
+http://cdn.redtraffic.net/bigass.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Interracial
+http://cdn.redtraffic.net/interracial.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Latina
+http://cdn.redtraffic.net/latina.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",POV
+http://cdn.redtraffic.net/pov.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Blowjob
+http://cdn.redtraffic.net/blowjob.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Teen
+http://cdn.redtraffic.net/teen.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Hardcore
+http://cdn.redtraffic.net/hardcore.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Cuckold
+http://cdn.redtraffic.net/cuckold.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Threesome
+http://cdn.redtraffic.net/threesome.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Russian
+http://cdn.redtraffic.net/russian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Lesbian
+http://cdn.redtraffic.net/lesbian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Rough
+http://cdn.redtraffic.net/rough.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Gangbang
+http://cdn.redtraffic.net/gangbang.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Anal
+http://cdn.redtraffic.net/anal.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Compilation
+http://cdn.redtraffic.net/compilation.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="ADULT",Brunette
+http://cdn.redtraffic.net/brunette.m3u8
