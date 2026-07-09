@@ -21,9 +21,17 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",MEN'S NEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
 
-#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Playboy-Logo-PNG-Photo-Image.png" group-title="ADULT",Playboy R
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Playboy-Logo-PNG-Photo-Image.png" group-title="ADULT",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",eroxx HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",BrazzersTV 18+ HD
@@ -36,19 +44,43 @@ http://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",interactial
 http://live.redtraffic.xyz/interracial.m3u8
 
-#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png" group-title="ADULT",eroxx HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://png.pngtree.com/png-vector/20230908/ourmid/pngtree-18-plus-sign-adult-only-warning-for-years-and-over-eighteen-vector-png-image_10025174.png",Babes 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/08/51/77/41/360_F_851774175_tgUt8R9DZM0AlpqPMoxsjFeWO5q5BWod.jpg" group-title="ADULT",MEN'S NEC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stv.ee/wp-content/uploads/2024/02/PrivateSD.png" group-title="ADULT",Private TV
+http://d029dcec.kazmazpaz.ru/iptv/M5PGRCV8WVK3W3/243/manifest.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/243/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png" group-title="ADULT",Vivid Red HD
+http://d029dcec.kazmazpaz.ru/iptv/M5PGRCV8WVK3W3/2162/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="ADULT",Hustler HD
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/244/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BRAZZERS_TV_2015.png" group-title="ADULT",Brazzers TV Europe
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/910/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/74/Russkaya_noch_%282018%2C_white%29.svg/revision/latest/scale-to-width-down/250?cb=20210114171030&path-prefix=ru" group-title="ADULT",Русская Ночь
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/147/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByVFKgm2tzhrmMHXaeIiBNn3z3dpLKq55o6mtAWjCzg&s=10" group-title="ADULT",Playboy
+http://d029dcec.kazmazpaz.ru/iptv/AHMQNVLWUTM5PW/527/manifest.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/527/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Eroxxx_HD_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20171210224500" group-title="ADULT",Eroxxx HD
+http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/5015/manifest.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/5015/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Exxxotica.svg/revision/latest?cb=20250530013033" group-title="ADULT",Exxxotica HD
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/9346/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png" group-title="ADULT",Dorcel TV HD
+http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/245/manifest.m3u8
+
+
 
 
 #EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg" group-title="ADULT",Miami TV [a]
